@@ -1,0 +1,727 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last will and testament of the late renowned Cardinal Mazarini, deceased February 27, 1660 together with some historical remarques of his life.</title>
+            <title>Testament du cardinal Mazarin. English</title>
+            <author>Mazarin, Jules, 1602-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 80 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44725</idno>
+            <idno type="STC">Wing H3084</idno>
+            <idno type="STC">ESTC R19502</idno>
+            <idno type="EEBO-CITATION">12172135</idno>
+            <idno type="OCLC">ocm 12172135</idno>
+            <idno type="VID">55453</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44725)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55453)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 108:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last will and testament of the late renowned Cardinal Mazarini, deceased February 27, 1660 together with some historical remarques of his life.</title>
+                  <title>Testament du cardinal Mazarin. English</title>
+                  <author>Mazarin, Jules, 1602-1661.</author>
+                  <author>Howell, James, 1594?-1666.</author>
+               </titleStmt>
+               <extent>[8], 154 [i.e. 148] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Peter Lillicrap for William Gilbertson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of: Testament du cardinal Mazarin.</note>
+                  <note>"Some historical remarqves" has special t.p. and is dated 1664.</note>
+                  <note>Dedication signed: J.H.</note>
+                  <note>The translation of the will and the authorship of the Remarques have been ascribed to James Howell. Cf. Vann, W.H. Notes on the writings of James Howell, 1924, p. 63-64.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mazarin, Jules, 1602-1661 --  Will.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:55453:1"/>
+                  <pb facs="tcp:55453:1"/>
+                  <p>THE LAST WILL and TESTAMENT OF The late Renowned Cardinal MAZARINI Deceaſed <hi>February.</hi> 27 1660.</p>
+                  <p>Together with ſome Hiſtorical REMARQVES OF HIS LIFE.</p>
+                  <p>
+                     <hi>London,</hi> Printed by <hi>Peter Lillicrap</hi> for <hi>William Gilbertſon</hi> at the Bible in <hi>Gilt-ſpur-ſtreet,</hi> 1663.</p>
+               </div>
+               <div type="imprimatur">
+                  <pb facs="tcp:55453:2"/>
+                  <p>Licenſed</p>
+                  <closer>
+                     <date>
+                        <hi>October</hi> 20. 1663.</date>
+                     <signed>ROGER L'ESTRANGE.</signed>
+                  </closer>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:55453:2"/>
+                  <head>TO THE Right Honorable, THOMAS LORD VVentworth One of his Majeſties moſt Honorable Privy Council</head>
+                  <opener>May it pleaſe your L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rdſhip,</opener>
+                  <p>I humbly crave your leave, to inſcribe your noble name to this Tranſlation of the Late
+<pb facs="tcp:55453:3"/>Cardinal <hi>Mazarini's</hi> Will and Teſtament with ſome Remar<g ref="char:EOLhyphen"/>quer of his life; from juſt though different reſpects.</p>
+                  <p>The firſt is your Lordſhips knowledge and particular ac<g ref="char:EOLhyphen"/>quaintance with that great and eminent perſonage, while you follow'd our Soverains Fortune in that Court in the ſame quality of his privy Counſellour, which afforded your Lordſhip in your prudent and ſerious converſe with him an experience of his abilities; improved to great advantage in your many Loyal and Noble ſervices to this Crown.</p>
+                  <p>To do the Cardinal ſo much right therefore, I have preſum<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:55453:3"/>to put this laſt MEMO<g ref="char:EOLhyphen"/>RIAL, of him into you Honorable hands, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the fitteſt and equalleſt <hi>Repoſitory</hi> of his Illuſtrious <hi>Name,</hi> which ſhall now paſs without <hi>profanation</hi> to the world, when ſacrated by YOURS.</p>
+                  <p>The other reſpect is to ſigni<g ref="char:EOLhyphen"/>fie and declare to the world the due ſentiments the Nation hath of your Lordſhips Conſpicuous worth, together with the parti<g ref="char:EOLhyphen"/>cular acknowledgements and obligations which I am bound to render for ſome Favours abroad, which your Lordſhips ſingular Nobleneſſe was plea<g ref="char:EOLhyphen"/>ſed to vouchſafe me.</p>
+                  <p>And conſulting herein alſo to
+<pb facs="tcp:55453:4"/>my ſelf this further favour from your Goodneſs, as to <hi>ſhelter</hi> my <hi>meanneſs</hi> under your Lordſhips patronage, which is ſufficient to <hi>vindicate</hi> the Cardinal, and to <hi>protect,</hi>
+                  </p>
+                  <closer>
+                     <salute>My Lord</salute> 
+                     <signed>Your moſt obedient and Devoted Servant, <hi>J. H.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:55453:4"/>
+                  <head>Advertiſement to the Reader.</head>
+                  <p>THe French Original of this Last Will of the Cardinal, being Printed at <hi>Colen,</hi> in <hi>Ger<g ref="char:EOLhyphen"/>many,</hi> was ſo full of faults, lit<g ref="char:EOLhyphen"/>terall and others, that the ſence in ſome few places could hardly be made out, which will make it in ſome ſuch places ſeem imper<g ref="char:EOLhyphen"/>fect, but the careful Reader will ſoon ſupply ſuch ſeeming defici<g ref="char:EOLhyphen"/>ency as I have not adventured on in the tranſlation: therein he is likewiſe deſired to under<g ref="char:EOLhyphen"/>ſtand
+<pb facs="tcp:55453:5"/>by the word <hi>Subſtitution</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> is a French <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Term<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, a Reverſion or kind of Remainder, <hi>in perpetuum.</hi>
+                  </p>
+                  <p>Other Errors and miſtakes in Printing the Reader is deſired candidly to correct and excuſe.</p>
+               </div>
+            </front>
+            <body>
+               <div type="will">
+                  <pb n="1" facs="tcp:55453:5"/>
+                  <head>The Laſt will and TESTAMENT OF CARDINAL MAZARINE:</head>
+                  <p>TO Day being the third of <hi>March</hi> one thouſand ſix hundred and ſixty one, about nine of the Clock in the morning, at the comand<g ref="char:EOLhyphen"/>ment of the moſt Illuſtrious and moſt Eminent my Lord Cardinal <hi>Julius Mazarine</hi> Duke of <hi>Ni<g ref="char:EOLhyphen"/>vernois</hi> and <hi>Ouziois</hi> being at preſent at the Caſtle of <hi>Vin<g ref="char:EOLhyphen"/>cennes;</hi> the <hi>Notaries,</hi> Inventory
+<pb n="2" facs="tcp:55453:6"/>keepers of our Soveraign Lord the King at <hi>Paris</hi> here under<g ref="char:EOLhyphen"/>ſigned, transferred themſelves to the ſaid Caſtle, to the apparti<g ref="char:EOLhyphen"/>ment of his Emmence<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>; where they found the ſaid Lord Careli<g ref="char:EOLhyphen"/>nal Duke a bed, ſick in body, but ſound in mind, memory, and un<g ref="char:EOLhyphen"/>derſtanding (as it appeared to them, who ſaid, declared, and acknowledged, that all his goods, moveable, &amp; immoveable, of what nature or quality ſoever they were, or where ever they were ſcituated or remaining, and in whatſoever they conſiſted, without exception or reſerve<g ref="char:punc">▪</g> did come and proceed from the Liberality and Magnificence of his Majeſty: For which reaſon he believed he could not do better
+<pb n="3" facs="tcp:55453:6"/>then by remitting (as he doth by theſe preſents remit and return) into his Majeſties hands, all his ſaid goods, moveable and im<g ref="char:EOLhyphen"/>moveable, and all other<g ref="char:punc">▪</g> gene<g ref="char:EOLhyphen"/>rally whatſoever, of what ever nature or quality they may be, &amp; where ever being or remain<g ref="char:EOLhyphen"/>ing, and in whatever they may conſiſt, without any exception or reſerve: the which preſent Decla<g ref="char:EOLhyphen"/>ration and delivery his Eminence doth make in favour of his Ma<g ref="char:EOLhyphen"/>jeſty by Donation and Gift of death, Teſtamentary diſpoſition, or any other way in the beſt form and manner it can or ought to be made; willing that his Ma<g ref="char:EOLhyphen"/>jeſty be und do remain ſeized of all the ſaid goods, from the day of the deceaſe of his Eminence, who
+<pb n="4" facs="tcp:55453:7"/>hopeth that his Majeſty will have the goodneſs and bounty to diſ<g ref="char:EOLhyphen"/>poſe of the ſaid Goods accord<g ref="char:EOLhyphen"/>ing to the intentions and deſigna<g ref="char:EOLhyphen"/>tions of his Eminence, which his Majeſty was pleaſed to receive from his Mouth; Leaving to his Majeſtie nevertheleſs full and frank liberty of the ſaid diſpoſi<g ref="char:EOLhyphen"/>tion, as it ſhall ſeem good to him, as the Lord and Maſter of all the ſaid Goods, which to that very purpoſe he hath given and be<g ref="char:EOLhyphen"/>queathed by theſe preſents to his Majeſty. This was done and ſaid by his Eminence to the above<g ref="char:EOLhyphen"/>ſaid Notaries, and by one of them, the other being preſent read and read again to him in the chamber of his Eminence aſ<g ref="char:EOLhyphen"/>pecting the Tower of the dungeon
+<pb n="5" facs="tcp:55453:7"/>the day and year aboveſaid and ſigned by the ſaid Lord the very minute of theſe Preſents.</p>
+                  <p>
+                     <hi>The ſame day</hi> the date of theſe preſents, at the Commandment of the moſt Illuſtrious and moſt Eminent my Lord Cardinal <hi>Julius Mazarini</hi> Duke of <hi>Nivernois,</hi> &amp;c. The Notaries Inventory Keepers for his Majeſty, &amp;c. be<g ref="char:EOLhyphen"/>ing arrived at his Eminences chamber in the Caſtle of <hi>Vincen<g ref="char:EOLhyphen"/>nes,</hi> found the ſaid Lord Cardi<g ref="char:EOLhyphen"/>nal Duke, a bed ſick, in body, &amp;c. as before, who ſaid unto them, that the length and tedi<g ref="char:EOLhyphen"/>ouſneſs of his ſickneſs, the uncer<g ref="char:EOLhyphen"/>tainty of life, and the neceſſity of death had obliged him to think of making and ordaining his laſt Will and Teſtament,
+<pb n="6" facs="tcp:55453:8"/>which he now made and nomi<g ref="char:EOLhyphen"/>nated to the aboveſaid Notaries as hereafter followeth.</p>
+                  <p>Firſt of all, He thanks the Au<g ref="char:EOLhyphen"/>thor of all good things, that he gave him his Birth in the Profeſ<g ref="char:EOLhyphen"/>ſion of the Catholick Religion which he acknowledgeth to be the ſole, true, and only way of ſalvation.</p>
+                  <p>He thanketh the ſame Divine goodneſs, for all thoſe Favours which it hath been pleaſed to be<g ref="char:EOLhyphen"/>ſtow upon him during the whole courſe of his life, and particu<g ref="char:EOLhyphen"/>larly for raiſing him to one of the moſt Eminent Dignities of the Church among an infinite number of many others of greater merit, beſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing the Divine Goodneſs; that the ſaid Elevation turn not to
+<pb n="7" facs="tcp:55453:8"/>his confuſion, for not having pro<g ref="char:EOLhyphen"/>fit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bly enough employed thoſe Talents which it hath been plea<g ref="char:EOLhyphen"/>ſed to give him; for which he craves pardon from the bottom of his heart of the Divine Ma<g ref="char:EOLhyphen"/>jeſty, to whom he acknowledg<g ref="char:EOLhyphen"/>eth himſelf guilty, but hopeth for forgiven, is by the merit of the precious blood of Jeſus Chriſt ſhed for our Redemption.</p>
+                  <p>After his thankſgiving to God as the Author and Beginning of all good things, he judgeth, it will be no derogati n to his Glo<g ref="char:EOLhyphen"/>ry to <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> alſo (with diſpro<g ref="char:EOLhyphen"/>portion nevertheleſs of the Crea<g ref="char:EOLhyphen"/>tures to the Creatour) thoſe ac<g ref="char:EOLhyphen"/>knowledgements he owes to his good Maſters whom God hath given him.</p>
+                  <pb n="8" facs="tcp:55453:9"/>
+                  <p>And firſt to the King deceaſed of glorious memory, who after his having called him to his ſer<g ref="char:EOLhyphen"/>vice, and employed his inſtances and nomination to the promo<g ref="char:EOLhyphen"/>ring him to the dignity of a Car<g ref="char:EOLhyphen"/>dinal, conferred on him the ineſti<g ref="char:EOLhyphen"/>mable Honor of making him Godfather to the King now raig<g ref="char:EOLhyphen"/>ning, and in fine to judge him worthy of the Adminiſtration of his moſt important afairs, &amp; to ſub<g ref="char:EOLhyphen"/>ſtitute him in the place (vacated by death) of one of the greateſt, moſt glorious, and moſt ſufficient able Miniſters of State, [Cardinal <hi>Richleiu</hi>] that ever <hi>France</hi> had.</p>
+                  <p>To the Queen Mother, whoſe goodneſs was pleaſed to conti<g ref="char:EOLhyphen"/>nue him in the ſame Adminiſtra<g ref="char:EOLhyphen"/>tion during her Regency, of
+<pb n="9" facs="tcp:55453:9"/>which with truth he can ſay, that the incredible firmneſſe and con<g ref="char:EOLhyphen"/>ſtancy of her mind, hath ſaved the State from one of the great<g ref="char:EOLhyphen"/>eſt dangers it ever underwent.</p>
+                  <p>To the King, who having ap<g ref="char:EOLhyphen"/>proved the choice made of his perſon by the King his Father de<g ref="char:EOLhyphen"/>ceaſed and by the Queen his Mo<g ref="char:EOLhyphen"/>ther, hath pleaſed to continue to him the ſame Honour, and to make him partaker of thoſe bleſ<g ref="char:EOLhyphen"/>ſings which Heaven hath abun<g ref="char:EOLhyphen"/>dantly powred down upon his Sacred perſon, by thoſe glorious and advantagious ſucceſſes, which it hath given to his endea<g ref="char:EOLhyphen"/>vours ſince his Majeſties advance<g ref="char:EOLhyphen"/>ment to the Crown; by that calm and repoſe which it hath Eſta<g ref="char:EOLhyphen"/>bliſhed within his Kindoms, ſoon after his Majority.</p>
+                  <pb n="10" facs="tcp:55453:10"/>
+                  <p>As alſo by the glorious peace which his Majeſty hath ſince afforded to the Chriſtian world no leſs by the reſpect, renown and glory of his Name, then by his Mediation which all the Princes and Potentates engaged in War have beſought and held in eſti<g ref="char:EOLhyphen"/>mation and Reverence: ſo that it may be truly ſaid that ſince a 1000 years, Chriſtianity hath not joyed of ſuch a tranquillity as this at preſent, by the endeavours and Authority of the King.</p>
+                  <p>And as in all theſe great ſucceſ<g ref="char:EOLhyphen"/>ſes it hath pleaſed God to make uſe of ſuch a feeble and weak Miniſter of his will and pleaſure and the orders of the King; by ſo much the more he ought to abaſe himſelf before the face of
+<pb n="11" facs="tcp:55453:10"/>the Divine Majeſty, and to ac<g ref="char:EOLhyphen"/>knowledge his real unworthineſs and how little he was capable of himſelf to ſerve as an inſtrument to ſuch g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eat things without His particular aſſiſtance. The Princi<g ref="char:EOLhyphen"/>pall ſatisfacti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n which his Emi<g ref="char:EOLhyphen"/>nence hoped for after the conclu<g ref="char:EOLhyphen"/>ſion of thoſe great works, and the return of their Majeſties to <hi>Paris</hi> was in a diligent applicati<g ref="char:EOLhyphen"/>on of all his care and pains to effect inceſſantly the Execution of his Majeſties good intent<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ons of re-eſta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>liſhing Order in the ge<g ref="char:EOLhyphen"/>neral Adminiſtration throughout the Kingdom, where many abuſes were encreaſed and raigned by the length of the War, the which, Prudence was obliged to Tole<g ref="char:EOLhyphen"/>rate or was not ſuffered to repreſs
+<pb n="12" facs="tcp:55453:11"/>for fear of ſome troubleſome in<g ref="char:EOLhyphen"/>teſtine Commotion, while there was a neceſſity of ſuſtaining the forrain Hoſtile Impreſſions and effects of a Power moſt conſide<g ref="char:EOLhyphen"/>rable. But God not being pleaſed after ſo many other, to grant him this laſt ſatisfaction which he had purpoſed to himſelf; and having viſited him with a long and troubleſome diſeaſe which took away from Him all means of ap<g ref="char:EOLhyphen"/>plying himſelf as was requiſite to an Affayr of that Importance for the Weal of the State, and the Profit of the Kings Subjects: He comforts himſelf in the thoughts and certain Hopes he cheriſheth, that His Majeſty having taken ſuch a Reſolution, by his weak Counſels; will maintain it, by
+<pb n="13" facs="tcp:55453:11"/>his Wiſdom and his Goodneſs al<g ref="char:EOLhyphen"/>together Royal.</p>
+                  <p>His Eminence finds himſelf further obliged to ſay, that no<g ref="char:EOLhyphen"/>thing hath given him more diſ<g ref="char:EOLhyphen"/>pleaſure in the Courſe of his Diſeaſe, them his diſability of endeavouring a conſiderable al<g ref="char:EOLhyphen"/>leviation and mitigation of thoſe over-preſſures and ſurcharges which the People have ſuffered: who having teſtified their zeal and their obedience by thoſe great ſuccours and ſupplies which they have given the King on all occaſions during a VVar of 25 years: He no way doubteth but that his Majeſty will take a par<g ref="char:EOLhyphen"/>ticular care of performing thoſe good intentions of which he hath diſcourſed with him, by the mo<g ref="char:EOLhyphen"/>tives
+<pb n="14" facs="tcp:55453:12"/>of that tenderneſs which he hath for his people, and to excite them alſo to be equally and m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tually ready to ſupply him in all preſſing occaſions</p>
+                  <p>For Concluſion, Their Maje<g ref="char:EOLhyphen"/>ſties having recompenſed <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is mean ſervices which he hath en<g ref="char:EOLhyphen"/>deavoured to performe to them, by a Magnificence worthy of the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mind and Royal greatneſs; He finds himſelf obliged to give teſtimony thereof to the Publick, and that the world may know, that if he hath ſerved them with all Fidelity, they have recompen<g ref="char:EOLhyphen"/>ſed his ſervices, not only beyond his hopes and deſires, but alſo beyond all he could imagine: to the end that this great example of their Liberality in his perſon
+<pb n="15" facs="tcp:55453:12"/>may excite all their good Sub<g ref="char:EOLhyphen"/>jects to ſerve them with the ſame zeal and the ſame Fidelity which he hath endeavoured to do.</p>
+                  <p>The ſaid Lord Cardinal hath appointed his Sepulture, in the Chappel of the Colledge which he hath founded; and in the mean while he prayeth his Maje<g ref="char:EOLhyphen"/>ſty that His Corps may be depo<g ref="char:EOLhyphen"/>ſited in the St. Chappel of <hi>Fin<g ref="char:EOLhyphen"/>cennes.</hi>
+                  </p>
+                  <p>The ſaid Lord Cardinal confirm<g ref="char:EOLhyphen"/>eth<g ref="char:punc">▪</g> and when it is or ſhall be needfull reiterates and doubles that gift made to the <hi>R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ligious</hi> the Theatmes of St. <hi>Anne</hi> Roy<g ref="char:EOLhyphen"/>al.</p>
+                  <p>He confirmeth alſo the Do<g ref="char:EOLhyphen"/>nation made to the Colledge of the four Nations and Academy
+<pb n="16" facs="tcp:55453:13"/>in purſuance of the contract made and paſſed before <hi>Notar<g ref="char:EOLhyphen"/>ies,</hi>
+                  </p>
+                  <p>The ſaid Lord Cardinal giveth to the Hoſpital General the ſum of ſixty thouſand livres [6000 <abbr>l.</abbr> 
+                     <hi>ster.</hi>] beſides the hundred thouſ<g ref="char:EOLhyphen"/>and Livres which he gave to it be<g ref="char:EOLhyphen"/>fore. He gives likewiſe and be<g ref="char:EOLhyphen"/>queaths unto the Hoſtel <hi>de Dieu,</hi> at <hi>Paris</hi> thirty thouſand Livres.</p>
+                  <p>The ſaid Lord Cardinal Duke, giveth and bequeaths to the Hoſ<g ref="char:EOLhyphen"/>pital of the Incurable the ſum of twelve thouſand liures for the founding of two beds according to the Reiglement or rules of the ſaid Hoſpital, the nomination whereof ſhall belong to his ſuc<g ref="char:EOLhyphen"/>ceſſors and deſcendants of the name of <hi>Mazarini.</hi>
+                  </p>
+                  <pb n="17" facs="tcp:55453:13"/>
+                  <p>The ſaid Lord Cardinal Duke giveth ſix years Alms, which he was uſed to give every year to ſeveral Convents of the City of <hi>Paris;</hi> He giveth likewiſe to the poor and beggars of the ſaid City the ſum of ſix thouſand Livres.</p>
+                  <p>
+                     <hi>The ſaid Lord Cardinal Duke, giveth the ſum of ſix hundred thouſand Livres which is in the Hands of the Sieur</hi> du Pont <hi>St.</hi> Pierre <hi>at I yons to be imployed in making War againſt the Turks according to the Orders of his Ma<g ref="char:EOLhyphen"/>jeſty.</hi>
+                  </p>
+                  <p>The ſaid Lord Cardinal Duke giveth to the Sieur <hi>de Fontenelle</hi> his firſt Eſquire the ſum of twen<g ref="char:EOLhyphen"/>ty thouſand livres. To the Sieur <hi>Bernouin</hi> the firſt Groom of his
+<pb n="18" facs="tcp:55453:14"/>Chamber the ſum of fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>teen thou<g ref="char:EOLhyphen"/>ſand liures; To the ſieur <hi>Pronty</hi> his Houſe-keeper the like ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m.</p>
+                  <p>The ſaid Lord Cardinal Duke, giveth to all the reſt of his Do<g ref="char:EOLhyphen"/>meſticks, that which ſhall be al<g ref="char:EOLhyphen"/>lowed them by a certain memo<g ref="char:EOLhyphen"/>rial which he will cauſe to be made.</p>
+                  <p>The ſaid Lord Cardinal Duke, giveth to Monſieur Cardinal <hi>An<g ref="char:EOLhyphen"/>tonio</hi> all thoſe ſums which he ow<g ref="char:EOLhyphen"/>eth to him the ſaid Cardinal Duke and which hath been lent him ei<g ref="char:EOLhyphen"/>ther by obligation, on his promiſe or otherwiſe, which he wills to be rendred back, diſcharging the ſieur <hi>Mazarine</hi> of all thoſe ſums which he may have given to the ſaid Cardinal.</p>
+                  <pb n="19" facs="tcp:55453:14"/>
+                  <p>My Lord Cardinal having ac<g ref="char:EOLhyphen"/>compliſhed a Deſign of match<g ref="char:EOLhyphen"/>ing 18 of the largeſt Diamonds which could be found, giveth them to the Crown, deſiring his Majeſty to accept of them, and that they bear the name of <hi>Ma<g ref="char:EOLhyphen"/>zarines.</hi>
+                  </p>
+                  <p>Giveth and bequeatheth alſo to the Crown all thoſe pieces of Pain<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ings which are at preſent within the the Library of his Emi<g ref="char:EOLhyphen"/>nence, and two ſuits of Tapeſtry, the one the <hi>Fruits of War</hi> the de<g ref="char:EOLhyphen"/>ſign of <hi>Julius Romain</hi> given to his Eminence ſince the Treaty of Peace, by the King of <hi>Spain,</hi> the other the <hi>Rape</hi> of the <hi>Saoines</hi> the deſign of <hi>Raphael.</hi> Moſt humbly thanking his Majeſty for all his Bounties and Magnificences, and
+<pb n="20" facs="tcp:55453:15"/>for that not long ſince he hath cauſed to be given him fifteen hundred thouſand liures upon the Treaty of the Neutrality of the <hi>French</hi> County, and the diſ<g ref="char:EOLhyphen"/>poſal of the Offices of the houſes of the Queen and Monſieur, which reward amounts in all to three or four millions.</p>
+                  <p>The ſaid Lord Cardinal Duke having alwayes regarded Madam <hi>Martineſſi</hi> whoſe Offices of Piety &amp; charity are eminently known, hath inceſſantly procured the ad<g ref="char:EOLhyphen"/>vancement of the Daughters by advantagious Alliances, having married the eldeſt with Monſieur the Duke of <hi>Modena</hi> one of the greateſt Princes, and of the moſt Antient and Illuſtrious Houſes of all <hi>Italy,</hi> and the ſecond with
+<pb n="21" facs="tcp:55453:15"/>Monſieur the Prince of <hi>Conti,</hi> Prince of the Blood Royal of <hi>France;</hi> and therefore no way doubting but that they will pre<g ref="char:EOLhyphen"/>fer his Intereſts before their Ad<g ref="char:EOLhyphen"/>vancement; He giveth to Ma<g ref="char:EOLhyphen"/>dam the Dutches of <hi>Modena</hi> the ſum of three hundred and fifty thouſand liures, which ſhall be paid unto her by the Executors of his Teſtament hereafter na<g ref="char:EOLhyphen"/>med. More, three pence making part of eleven pence to receive of the ſalts of <hi>Brouage:</hi> more, half of the Rents upon the City of <hi>Paris,</hi> purchaſed by his Emi<g ref="char:EOLhyphen"/>nence of Monſieur <hi>Charles Ar<g ref="char:EOLhyphen"/>mand</hi> at preſent Duke <hi>Ma<g ref="char:EOLhyphen"/>zarini.</hi>
+                  </p>
+                  <p>He giveth and bequeaths to Madam the Princes of <hi>Conti</hi> the
+<pb n="22" facs="tcp:55453:16"/>like ſumme <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f three hundred and fifty thouſand liures, which ſhall be paid her by his Executors; more, the ſum of thirty thouſand liures to receive and take upon the Exciſe or Farn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s of <hi>Langue<g ref="char:EOLhyphen"/>dock;</hi> more, three pence making part of eleven pence to receive and take upon the ſaid Salts of <hi>Brouage;</hi> more <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> other <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ity of Rents upon the Town hall of the City of <hi>Paris;</hi> more, the Compenſation of the Rents of the office of ſur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntendunt for the Houſe of the Queen Mother, a<g ref="char:EOLhyphen"/>mounting to two hundred thou<g ref="char:EOLhyphen"/>ſand liures, which his Eminence hath purchaſed of <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Princeſs Palatine, &amp; of which ſhe is at preſent in poſſeſſion; more, the ſuit of Tapeſtry Hangings
+<pb n="23" facs="tcp:55453:16"/>with the ſtory of <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ehoboam.</hi>
+                  </p>
+                  <p>He gives to the Lady <hi>Marti<g ref="char:EOLhyphen"/>neſſi</hi> Siſter to his Eminence the ſum of eighteen thouſand liures of a rent for life pavable at <hi>Rome</hi> monethly by adv<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ce; and upon charge to her and the ſaid Ladies the Dutches of <hi>Modena</hi> and Prin<g ref="char:EOLhyphen"/>ceſs of <hi>Conti,</hi> to renounce, and quit claim to the ſucceſſion of his Eminence, and to all and ſuch rights which they may pretend to the ſame: In default whereof they ſhall forfeit their Legacies aboveſaid which ſhall return to the Heires and Legatees Ge<g ref="char:EOLhyphen"/>neral.</p>
+                  <p>The ſaid Lord Cardinal, in<g ref="char:EOLhyphen"/>tends not that Monſieur the Mar<g ref="char:EOLhyphen"/>q eſs of <hi>Mancini</hi> his Nephew ſhall marry with any perſon what<g ref="char:EOLunhyphen"/>ſoever
+<pb n="24" facs="tcp:55453:17"/>without the conſent of the King; and in conſideration there<g ref="char:EOLhyphen"/>of gives him the Peerage of <hi>Ni<g ref="char:EOLhyphen"/>vernois</hi> (or <hi>Nevers</hi>) and <hi>Ouziois,</hi> with the appurtenances and de<g ref="char:EOLhyphen"/>pendances purchaſed by his Emi<g ref="char:EOLhyphen"/>nence of <hi>Monſeigueur</hi> the Duke of <hi>Mantua</hi> by contract of the 11<hi rend="sup">th</hi> of <hi>July</hi> 1659. with the De<g ref="char:EOLhyphen"/>crees obtained ſince free and quit of all Rights: More, two thirds of the Subſidies ariſing from the Actions of <hi>Mortaine,</hi> which may be changed for thoſe of <hi>Nevers:</hi> More, four pence, part of the nineteen pence purchaſed of my Lord the Duke of <hi>Ornanes</hi> de<g ref="char:EOLhyphen"/>ceaſed: More, three pence part of eleven pence upon the Salts of <hi>Brouage:</hi> More, the ſum of ſix hundred thouſand liures in ready
+<pb n="25" facs="tcp:55453:17"/>money, which ſhall be paid by the hands of the Executors of his Will hereafter named. All upon charge that the ſaid Lord <hi>Mancini</hi> ſhall punctually comply with what is before enjoyned him towards his Ma<g ref="char:EOLhyphen"/>jeſty, and not otherwiſe; in de<g ref="char:EOLhyphen"/>fault whereof he ſhall forfeit his Legacies aboveſaid; and others that ſhall be made to him hereafter, ſhall be comprized in the Legacy General. And fur<g ref="char:EOLhyphen"/>ther upon charge, that the ſaid Lord <hi>Mancini</hi> and all his Deſ<g ref="char:EOLhyphen"/>cendants Males or Femals, ſhall carry the Names and the Arms of <hi>Mazarini</hi> without joyning o<g ref="char:EOLhyphen"/>ther names, or quartering other Arms therewith: And that the
+<pb n="26" facs="tcp:55453:18"/>Eldeſt Son and Male Deſcen<g ref="char:EOLhyphen"/>dants of the ſaid Marqueſs <hi>Man<g ref="char:EOLhyphen"/>cini,</hi> by perpetual and infinite repreſentation from Male to Male, and from Eldeſt to Eldeſt, ſhall have and take by gradual and perpetual Subſtitution, all theſe things and ſums above mentioned, given to him the ſaid Marqueſs <hi>Mancini;</hi> and in de<g ref="char:EOLhyphen"/>fault of Iſſue male of his body, the Subſtitution ſhall belong to the eldeſt Daughter deſcendent of the male and to the male deſ<g ref="char:EOLhyphen"/>cendents for ever, obſerving alwayes the right of Eldeſt to eldeſt, upon condition that in every degree the eldeſt male, and every daughter that ſhall be called to the Subſtitution,
+<pb n="27" facs="tcp:55453:18"/>ſhall be tyed to take the Name and Arms of <hi>Mazarini</hi> as aboveſaid: And in default of deſcendants from the males, the Subſtitution ſhall belong to the eldeſt Daughter of the ſaid Marqueſs <hi>Mancini,</hi> and to her deſcendants Males and Females; and in default of Children of the eldeſt Daughter or her Deſ<g ref="char:EOLhyphen"/>cendants, to the ſecond third or other Daughters ſucceſſively and their Deſcendents, prefer<g ref="char:EOLhyphen"/>ring alwayes the elder before the younger, and Sonnes to Daughters, as long as there ſhall be any Deſcendants of the ſaid Daughters, on the ſame conditions of taking the Arms and Names of <hi>Mazarini Man<g ref="char:EOLhyphen"/>cini</hi>
+                     <pb n="28" facs="tcp:55453:19"/>joyntly together. In caſe of default of Iſſue by the ſaid Lord Marqueſs <hi>Mancini,</hi> all the aboveſaid things and ſummes above given and bequeathed him, ſhall belong by the ſame right of Subſtitution to the high and might Lord <hi>Armand Charles</hi> now Duke <hi>Mazarini,</hi> and after him in his place to the eldeſt of his Sons iſſued from him, and the high and mighty Lady <hi>Hortenſe Mancini</hi> his Wife.</p>
+                  <p>No perſon ſhall have benefit of this Subſtitution, who ſhall be an Eccleſiaſtick or Knight of <hi>Malta,</hi> unleſs he ſhall have re<g ref="char:EOLhyphen"/>nounced it before: the ſaid Lord Cardinal willing and de<g ref="char:EOLhyphen"/>claring,
+<pb n="29" facs="tcp:55453:19"/>that he who ſhall refuſe to accept of the ſaid Conditi<g ref="char:EOLhyphen"/>ons, ſhall be deprived of all right thereunto, and that all ſhall return to the Legatee Ge<g ref="char:EOLhyphen"/>neral.</p>
+                  <p>The Lord Cardinal beſeech<g ref="char:EOLhyphen"/>eth his Majeſty to receive the ſaid Lord Marqueſs <hi>Mancini</hi> in ſurvivency to the Government and Lieutenancy of the King in <hi>Brouage</hi> and <hi>Rochel,</hi> the profits whereof ſhall remain in the hands of the Sieur <hi>Colbert.</hi>
+                  </p>
+                  <p>The ſaid Lord Cardinal gi<g ref="char:EOLhyphen"/>veth unto Monſieur <hi>Mancini</hi> his Nephew the ſum of 30 thou<g ref="char:EOLhyphen"/>ſand liures to be imployed for payment of his debts; the ſaid Lord Cardinal willeth and in<g ref="char:EOLhyphen"/>tendeth
+<pb n="30" facs="tcp:55453:20"/>that the adminiſtration of the goods of the ſaid Lord Mar<g ref="char:EOLhyphen"/>queſs <hi>Mancini</hi> remain in the hands of the Sieur <hi>Colbert,</hi> un<g ref="char:EOLhyphen"/>till he ſhall have attained the age of majority.</p>
+                  <p>The ſaid Lords Executors may name a perſon to be Tu<g ref="char:EOLhyphen"/>tor to the ſaid Marqueſs <hi>Man<g ref="char:EOLhyphen"/>cini</hi> under direction of the Sieur <hi>Colbert,</hi> who ſhall be ob<g ref="char:EOLhyphen"/>liged to give Caution and Secu<g ref="char:EOLhyphen"/>rity: and whileſt the ſaid Mar<g ref="char:EOLhyphen"/>queſs <hi>Mancini</hi> ſhall attain to the age of major, there ſhall be paid unto him the ſum of thirty ſix thouſand liures for every year, and if he marry with conſent of the King, the ſum of eighty thouſand liures.</p>
+                  <pb n="31" facs="tcp:55453:20"/>
+                  <p>The ſaid Lord Cardinal de<g ref="char:EOLhyphen"/>ſiring to perpetuate the name of <hi>Mancini</hi> at <hi>Rome,</hi> makes and ordains the ſaid Lord <hi>Mancini</hi> his Nephew, Legatee Univerſal, and Heir of all his Goods at <hi>Rome,</hi> willing that he be ſeized thereof from the day of his De<g ref="char:EOLhyphen"/>ceaſe, which goods ſhall remain ſubſtituted to the ſecond Son of the ſaid Sieur <hi>Mancini,</hi> and to the Children of the ſecond, and of his male iſſue by a perpe<g ref="char:EOLhyphen"/>tual and infinite repreſentation from male to male, and from eldeſt to eldeſt, and in default of male Iſſue of the ſecond Son, to the third, and from the third to the fourth, and conſequently ſo from male to male, &amp; from
+<pb n="32" facs="tcp:55453:21"/>eldeſt to eldeſt. And in de<g ref="char:EOLhyphen"/>fault of Iſſue male, the ſubſtitu<g ref="char:EOLhyphen"/>tion ſhall belong to the eldeſt Daughter Deſcended of the male of the ſaid ſecond, third or fourth Son, and conſe<g ref="char:EOLhyphen"/>quently to their iſſue male for ever. And in default of Daughters Deſcendants of the males, the ſaid Subſtitution ſhall paſs to the eldeſt Daughter of the ſaid Lord Marqueſs <hi>Man<g ref="char:EOLhyphen"/>cini</hi> and to her Deſcendants, preferring alwayes the eldeſt to the youngeſt, and the Sous to the Daughters, as long as there ſhall be any Deſcendants of the ſaid Daughters. All upon con<g ref="char:EOLhyphen"/>dition that he who ſhall be cal<g ref="char:EOLhyphen"/>led to the Subſtitution, of
+<pb n="33" facs="tcp:55453:21"/>whatever condition or degree he be, ſhall be obliged to dwell in the City of <hi>Rome.</hi> and to bear the ſole Name &amp; plain Arms of <hi>Mancini,</hi> without partying or quartering them with any o<g ref="char:EOLhyphen"/>thers, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> upon condition alſo, that if there be any Daughters of the males which are exclud<g ref="char:EOLhyphen"/>ed by the males in a direct or collateral Line, the ſaid Subſti<g ref="char:EOLhyphen"/>tuted ſhall be holden to give them Portions ſutable to their quality.</p>
+                  <p>In default of Poſterity of the ſecond third or other ſon and of the daughters of the ſaid Lord Marqueſs <hi>Mancini,</hi> the Palace, moveables. Rights and other effects which are in the ſaid City
+<pb n="34" facs="tcp:55453:22"/>of <hi>Rome</hi> belonging to his Emi<g ref="char:EOLhyphen"/>nence, ſhall appertain by the ſame right of Subſtitution unto the eldeſt ſon of the ſaid Lord <hi>Mazarini Mancini</hi> and to the male <hi>Jſſue</hi> of the ſaid eldeſt ſon, and in default of the males to the daughters and to their male children from eldeſt to eldeſt, as long as there ſhall be any male or female iſſue of the ſaid <hi>Maza<g ref="char:EOLhyphen"/>rini Mancini</hi> or of his deſcen<g ref="char:EOLhyphen"/>dants, on condition that the right of Primogeniture be always ob<g ref="char:EOLhyphen"/>ſerved as aboveſaid. And if there ſhall be but one of the ſaid Houſe of <hi>Mancini,</hi> to whom the Dutchy of <hi>Nivernois</hi> ſhall ap<g ref="char:EOLhyphen"/>pertain by the ſame right of Sub<g ref="char:EOLhyphen"/>ſtitution, and that the goods at
+<pb n="35" facs="tcp:55453:22"/>
+                     <hi>Rome</hi> ſhall belong to him like<g ref="char:EOLhyphen"/>wiſe by the ſame right of Subſti<g ref="char:EOLhyphen"/>tution; He ſhall be obliged to dwell in <hi>France.</hi> And if it ſhall ſo happen that the ſaid Lord Marqueſs <hi>Mancini</hi> deceaſe with<g ref="char:EOLhyphen"/>out iſſue, the ſaid goods at <hi>Rome</hi> ſhall remain and belong to my Lord <hi>Armand Charles</hi> Duke <hi>Mazarini</hi> and his youngeſt de<g ref="char:EOLhyphen"/>ſcendants from male to male, and eldeſt to eldeſt: Obſerving always that <hi>Mazarini</hi> is Prafer<g ref="char:EOLhyphen"/>rible before <hi>Mancini.</hi>
+                  </p>
+                  <p>The ſaid Lord Cardinal in<g ref="char:EOLhyphen"/>treateth my Lord Cardinal <hi>Mancini,</hi> to take the Admini<g ref="char:EOLhyphen"/>ſtration of the goods at <hi>Rome,</hi> and becauſe they conſiſt moſtly in his Palace, and a number of
+<pb n="36" facs="tcp:55453:23"/>Offices &amp; places <hi>and the publick ſtock,</hi> which may be put into money, he requeſteth the ſaid Cardinal if he thinks fit, to con<g ref="char:EOLhyphen"/>vert into the Purchaſe of ſome Land in the Eccleſiaſtical Stae, which ſhall carry the name of the Subſtitution.</p>
+                  <p>The ſaid Cardinal <hi>Mancini</hi> in caſe of Death, may appoint another to the ſaid Adminiſtra<g ref="char:EOLhyphen"/>tion, who nevertheleſs ſhall not ſell nor engage any of the things above named; And if the Sieur <hi>Mancini</hi> be more then five and twenty years old at the death of the Lord Cardinal, he may name an Adminiſtrator, but not diſ<g ref="char:EOLhyphen"/>poſe of the ſaid Goods which ſhall remain ſubſtituted as alrea<g ref="char:EOLhyphen"/>dy ſaid.</p>
+                  <pb n="37" facs="tcp:55453:23"/>
+                  <p>Further the ſaid Lord Cardi<g ref="char:EOLhyphen"/>nal gives and bequeathes to the ſaid Marqueſs <hi>Mancini</hi> the Ta<g ref="char:EOLhyphen"/>piſtry of the Acts of the Apoſtles made in <hi>Paris,</hi> with the rich Furniture of green Velvet to be ſent to <hi>Rome</hi> to Cardinal <hi>Man<g ref="char:EOLhyphen"/>cini,</hi> which ſhall be part of the ſaid ſubſtitution.</p>
+                  <p>In lieu whereof, the ſaid Mar<g ref="char:EOLhyphen"/>queſs <hi>Mancini</hi> ſhall renounce the Rights which he may pre<g ref="char:EOLhyphen"/>tend to the ſucceſſion of the ſaid Lord Cardinal <hi>Mazarini,</hi> and if he fail to do ſo, he ſhall abſolutely forfeit all his ſaid Le<g ref="char:EOLhyphen"/>gacies, which ſhall return to the Legatee General.</p>
+                  <p>The ſaid Lord Cardinal gi<g ref="char:EOLhyphen"/>veth and bequeatheth to the
+<pb n="38" facs="tcp:55453:24"/>eldeſt Son of my Lord Duke de <hi>Mercoeur</hi> and de <hi>Ferie</hi> his Spouſe the Demeſne of the Dutchy of <hi>Auvergne,</hi> the De<g ref="char:EOLhyphen"/>meſne of <hi>Languedock,</hi> the third part of the Subſidy of the Ele<g ref="char:EOLhyphen"/>ction of <hi>Mortaigne,</hi> and the ſum of three hundred thouſand liures in money, which ſhall be employed towards the payment of the debts of the Houſe of <hi>Vendoſme.</hi>
+                  </p>
+                  <p>As to the ſecond Son of the ſaid Duke de <hi>Mercoeur,</hi> the ſaid Lord Cardinal prayeth him to be content with that which he hath procured him from his Majeſty, on condition alſo that both of them renounce their Succeſſion to his Eminence, and
+<pb n="39" facs="tcp:55453:24"/>all thoſe Rights which they may pretend to by reaſon of theſe ſaid Legacies, which in default of renunciation, ſhall be forfei<g ref="char:EOLhyphen"/>ted and returned to the Legatee general, even although the el<g ref="char:EOLhyphen"/>deſt ſhall make the ſaid renun<g ref="char:EOLhyphen"/>ciation, if ſo be it be not done joyntly by the youngeſt.</p>
+                  <p>The ſaid Lord, &amp;c. giveth and bequeatheth unto Madam the Counteſs of <hi>Soiſſons,</hi> beſides the ſum of three hundred thou<g ref="char:EOLhyphen"/>ſand liures in money, the Sub<g ref="char:EOLhyphen"/>ſidy or Impoſition on the Ele<g ref="char:EOLhyphen"/>ction of <hi>Verneuil,</hi> and the ſum of two hundred and fifty thou<g ref="char:EOLhyphen"/>ſand liures, payed by his Emi<g ref="char:EOLhyphen"/>nence to Madam the Princeſſe Palatine for the purchaſe of the
+<pb n="40" facs="tcp:55453:25"/>Office of Surintendent in the Houſe of the Queen for which ſhe hath at preſent a Pa<g ref="char:EOLhyphen"/>tent; on condition that the ſaid Lady <hi>Counteſſe</hi> of <hi>Soiſſons</hi> dore<g ref="char:EOLhyphen"/>nounce any Caim or Title ſhe may pretend to the ſucceſſion of the ſaid Lord Cardinal. In default whereof ſhe ſhall forfeit her ſaid Legacy, which ſhall re<g ref="char:EOLhyphen"/>turn to the Legatee General.</p>
+                  <p>The ſaid Lord Cardinal gi<g ref="char:EOLhyphen"/>veth &amp; bequeatheth to Damoi<g ref="char:EOLhyphen"/>ſelle <hi>Mary Mancini,</hi> now mar<g ref="char:EOLhyphen"/>ried to the Conſtable <hi>Colonna</hi> all that which he hath aſſigned her for her portion, willing that ſhe content her ſell with the part he hath given her, on con<g ref="char:EOLhyphen"/>dition ſhe renounce all Claim
+<pb n="41" facs="tcp:55453:25"/>and Title to the Succeſſion of his Eminence.</p>
+                  <p>He gives and Bequeathes to <hi>Damoiſelle Anne Mary Manci<g ref="char:EOLhyphen"/>ni</hi> the ſum of ſix hundred thou<g ref="char:EOLhyphen"/>ſand liures, which ſhall be paid to her, or put out at Intereſt by his Executors, they notwith<g ref="char:EOLhyphen"/>ſtanding not to be reſponſible for the employ and profit there<g ref="char:EOLhyphen"/>of: on condition likewiſe that ſhe renounce all Claim to the Succeſſion, &amp;c. otherwiſe to forfeit as aforeſaid.</p>
+                  <p>The ſaid Lord Cardinal nameth for Truſtees and Governour of the ſaid Damoiſelle <hi>Anno, Ma<g ref="char:EOLhyphen"/>cini,</hi> the Executors of his Will hereafter mentioned.</p>
+                  <p>If there ſhall not be found
+<pb n="42" facs="tcp:55453:26"/>ready money enough to diſ<g ref="char:EOLhyphen"/>charge all thoſe Legacies above mentioned, the ſaid Lord Car<g ref="char:EOLhyphen"/>dinal Willeth that it ſhall be e<g ref="char:EOLhyphen"/>qually divided among the Le<g ref="char:EOLhyphen"/>gatees, penny for penny upon the liure, excepting the Legacy of Dame <hi>Mary</hi> and <hi>Mary Anne Mancini,</hi> who ſhall be paid in full, and which Legacies ſhall remain ſubſtituted to the Heirs of Dame <hi>Mary,</hi> and <hi>Mary Anne Mancini.</hi>
+                  </p>
+                  <p>The ſaid Lord Cardinal ha<g ref="char:EOLhyphen"/>ving alwayes had a moſt parti<g ref="char:EOLhyphen"/>cular affection for learned men, continues to them during their life the Penſions he was accu<g ref="char:EOLhyphen"/>ſtomed to pay them, according to a catalogue or Memoyr which
+<pb n="43" facs="tcp:55453:26"/>ſhall be given in by Sr. <hi>Colbert.</hi>
+                  </p>
+                  <p>The reſt of all his ſaid move<g ref="char:EOLhyphen"/>able Goods, Debts, Obligati<g ref="char:EOLhyphen"/>ons, Rents, and other Effects whatſoever, in Lands of Inheri<g ref="char:EOLhyphen"/>tance or Cuſtome, the ſaid Lord Cardinal giveth and bequea<g ref="char:EOLhyphen"/>theth to my Lord <hi>Charles Ar<g ref="char:EOLhyphen"/>mand</hi> now Duke <hi>Mazarini,</hi> and the Lady <hi>Hortenſe</hi> his Spouſe, whom with his own mouth he appoints to be his Heires and legatees General; they to defray his Funeral char<g ref="char:EOLhyphen"/>ges, and to accompliſh his pre<g ref="char:EOLhyphen"/>ſent Teſtament, declaring that he intends not to compriſe within this general Legacy his Palace, his other Jewels, Rings, moveable and immoveable
+<pb n="44" facs="tcp:55453:27"/>Goods, Painting, Pictures, Veſ<g ref="char:EOLhyphen"/>ſels of Silver, with his Statues and Figures of Marble or Braſs being within his Palace and his appartement in the <hi>Loruve</hi> and in <hi>France;</hi> nor his Governments, which he hath not diſpoſed of, reſerving to himſelf the diſpoſi<g ref="char:EOLhyphen"/>tion by <hi>Codicil,</hi> or otherwiſe as ſhall ſeem good unto him, on charge of the ſaid Goods with a gradual, perpetual and everlaſt<g ref="char:EOLhyphen"/>ing Subſtitution, and neverthe<g ref="char:EOLhyphen"/>leſs, all that which ſhall come and provene of his Legacy Ge<g ref="char:EOLhyphen"/>neral, ſhall be in the nature of propriety to the ſaid Lady Dut<g ref="char:EOLhyphen"/>cheſſe <hi>Mazarini,</hi> the ſaid Lord Cardinal barring in both the ſaid Subſtitutions, as well in <hi>France</hi>
+                     <pb n="45" facs="tcp:55453:27"/>as in <hi>Rome,</hi> any alterations; but ſuch as ſhall be permitted.</p>
+                  <p>Forbidding likewiſe all diſtra<g ref="char:EOLhyphen"/>ctions of quarter parts in the one and the other Subſtitu<g ref="char:EOLhyphen"/>tion.</p>
+                  <p>As to his Diſpatches, Letters, Miſſives, Negotiations, Trea<g ref="char:EOLhyphen"/>ties and other Papers concern<g ref="char:EOLhyphen"/>ing the State, and Domeſtique affairs, in what place ſoever they are, nothing being more dear or precious to him; he humbly prayes his Majeſty that they may be put into the hands of the Sieur <hi>Colbert,</hi> without making any Inventory, and that the ſaid <hi>Colbert</hi> diſpoſe them in order, and if there be any difficulty, he may demand the clearing of it
+<pb n="46" facs="tcp:55453:28"/>of Monſir. the Biſhop of <hi>Freins</hi> for the Affairs of <hi>Rome,</hi> and Mounſieur de <hi>Lyonne</hi> for the affairs of State, ſo to communi<g ref="char:EOLhyphen"/>cate them to the King, or to whom his Majeſty ſhall pleaſe to order them upon occaſion.</p>
+                  <p>The ſaid Lord Cardinal not being able to give ſufficient Te<g ref="char:EOLhyphen"/>ſtimony of the fidelity of Mr. <hi>Colbert</hi> which he hath experien<g ref="char:EOLhyphen"/>ced for more then twelve years laſt paſt, doth approve all that hath been done by him to this preſent, and willeth that it be believed upon his bare word.</p>
+                  <p>The ſaid Lord Cardinal wil<g ref="char:EOLhyphen"/>leth and intendeth (having been hindred by great Affairs from examining the Accompts of the
+<pb n="47" facs="tcp:55453:28"/>Sieur <hi>Picon</hi> for ſome years as he was accuſtomed to do) that the ſaid Accompts which ſhall be given of his houſe, be examined by the Sieur <hi>Colbert,</hi> and ſigned and firmed by him alone.</p>
+                  <p>The ſaid Lord Cardinal moſt expreſly forborbiddeth any In<g ref="char:EOLhyphen"/>ventory or Deſcription to be made of his moveable Goods or Effects, or of any Titles or Pa<g ref="char:EOLhyphen"/>pers, and if the Legatees whe<g ref="char:EOLhyphen"/>ther particular or general ſhall offer to demand them, His Will is, that they forfeit their Legacy, all which ſhall be veſted in the perſon of the firſt Subſtitute, without that, that any diſpoſiti<g ref="char:EOLhyphen"/>on thereof may be declare pe<g ref="char:EOLhyphen"/>nal or comminatory.</p>
+                  <pb n="48" facs="tcp:55453:29"/>
+                  <p>Furthermore the ſaid Lord Cardinal entreateth his Majeſty in caſe of contravention, to in<g ref="char:EOLhyphen"/>terpoſe his Authority, that his Will may be followed, and that the ſaid Accompts and Papers may not be ſeen, nor Invento<g ref="char:EOLhyphen"/>ry, nor deſcription made there<g ref="char:EOLhyphen"/>of, it being neceſſary to keep them ſecret for the intereſt of the State and many Families as well within as without the Realm. He prayeth alſo the Meſſieurs of the Parliament and other Judges to forbear here, not doubting but that they will prefer the Intereſts of State to that of particular mens.</p>
+                  <p>The ſaid Lord Cardinal gi<g ref="char:EOLhyphen"/>veth and bequeatheth to Don
+<pb n="49" facs="tcp:55453:29"/>
+                     <hi>Louis</hi> de <hi>Haro</hi> a rare piece of <hi>Titian</hi> repreſenting <hi>Flora,</hi> by reaſon of the friendſhip which they have Contracted in the Treaty of Peace.</p>
+                  <p>He giveth and bequeatheth to my Lord the Count of <hi>Fuen<g ref="char:EOLhyphen"/>ſaldigne</hi> a great Watch in a Gold Caſe.</p>
+                  <p>And for the execution of the preſent Will and Teſtament, the ſaid Lord Cardinal nameth my Lord the firſt Preſident of Parliament my Lord <hi>Fouquet</hi> Counſellour of the King in all his Counſels, Procurator Gene<g ref="char:EOLhyphen"/>ral of the Parliament, and In<g ref="char:EOLhyphen"/>tendant of the Finances; My Lord le <hi>Tellier</hi> Counſellour of the King in all his Counſels, Se<g ref="char:EOLhyphen"/>cretary
+<pb n="50" facs="tcp:55453:30"/>of State; My Lord the Biſhop of <hi>Freins,</hi> and Monſieur <hi>Colbert</hi> Counſellour of the King in his Counſels, and Intendant of the Houſes &amp; <hi>Finances</hi> of his Eminence, whom he intreateth not to ſuffer any Inventory to be made of his moveables, or pa<g ref="char:EOLhyphen"/>pers, nothing being more neceſ<g ref="char:EOLhyphen"/>ſary to be kept then ſecrecy; and to acknowledge in ſome manner the pains which they ſhall take in the Execution of his preſent Teſtament; He gives and bequeathes the ſum of for<g ref="char:EOLhyphen"/>ty thouſand liures in money, or in goods at their choice to be equally divided among them. The ſaid Lord Cardinal willeth and ordaineth that if
+<pb n="51" facs="tcp:55453:30"/>death, or any other conſide<g ref="char:EOLhyphen"/>rable hinderance ſhall happen to any of them, the Survivors ſhall name ſuch others as they ſhall chuſe, to ſupply the places of the deceaſed, willing that the number be compleat.</p>
+                  <p>He giveth and bequeatheth to each of his three Secretaries a Diamant of four thouſand li<g ref="char:EOLhyphen"/>vres, beſeeching his Majeſty to protect them, and to continue them their Aſſignments.</p>
+                  <p>He giveth and bequeatheth to the building the Pariſh Church of St. <hi>Enſtache</hi> the ſum of ſix thouſand liures.</p>
+                  <p>He gives and bequeathes to the St. Chappel of <hi>Bois</hi> de <hi>Vin<g ref="char:EOLhyphen"/>cennes</hi> the ſum of ten thouſand
+<pb n="52" facs="tcp:55453:31"/>liures on condition they cauſe to be ſaid and celebrated every year on the day of the deceaſe of his Eminence, an Anniverſarie for the Repoſe and weal of his Soul.</p>
+                  <p>My Lord the Cardinal de<g ref="char:EOLhyphen"/>clares, that whereas he had left all his goods to the King by his Will of the third of the preſent moneth, and that his Intention was alwayes ſuch, that his Ma<g ref="char:EOLhyphen"/>jeſty ſhould diſpoſe of them as he pleaſed, and that now the King was pleaſed to teſtifie to him that his Majeſty deſired he ſhould diſpoſe of his own goods; He had therefore cau<g ref="char:EOLhyphen"/>ſed this preſent Will to be made which was ſo ſaid, and named
+<pb n="53" facs="tcp:55453:31"/>one word after another to the aboveſaid <hi>Notaries</hi> by his Emi<g ref="char:EOLhyphen"/>nence, and read and repeated to him by one of them, the o<g ref="char:EOLhyphen"/>ther being preſent, in the Cham<g ref="char:EOLhyphen"/>ber of his Eminence before de<g ref="char:EOLhyphen"/>clared, one thouſand ſix hun<g ref="char:EOLhyphen"/>dred ſixty and one, the ſixth day of <hi>March,</hi> and ſigned by his Eminence.</p>
+                  <div type="supplement">
+                     <pb n="54" facs="tcp:55453:32"/>
+                     <head>THE CODICILL ANNEXED.</head>
+                     <p>TO day the ſixth day of <hi>March</hi> one thouſand ſix hundred and ſixty one, after<g ref="char:EOLhyphen"/>noon, at the commandement of the moſt Illuſtrious and moſt Eminent the Lord Cardinal Duke <hi>Mazarini</hi> the Notaryes Inventory Keepers, &amp;c. as be<g ref="char:EOLhyphen"/>fore found the ſaid Lord Cardi<g ref="char:EOLhyphen"/>nal a bed ſick in Body, but of ſound mind and underſtanding, as it appeared to them, who having cauſed the Will and Te<g ref="char:EOLhyphen"/>ſtament
+<pb n="55" facs="tcp:55453:32"/>by him made to be ſhewed him again, and adding thereunto,</p>
+                     <p>Gives and bequeathes the ſum of ſeventy thouſand liures which he wills to be diſtributed to his Officers, according to their Rank and Seniority of their ſervices by the Executors of his Will, without any of their com<g ref="char:EOLhyphen"/>plaining againſt that which ſhall be given them by the ſaid Exe<g ref="char:EOLhyphen"/>cutors, on pain of forfeiture of each (their) part, which in this Caſe ſhall be diſtributed among other the ſaid Officers within the ſaid 70000. livres, beſides the ſums bequeathed by him to the Sieurs de <hi>Fontenelle, Bernou<g ref="char:EOLhyphen"/>in</hi> and <hi>Pronti,</hi> who may not pre<g ref="char:EOLhyphen"/>tend
+<pb n="56" facs="tcp:55453:33"/>to the ſaid ſum of ſeventy thouſand liures.</p>
+                     <p>He gives and bequeathes to Madam de <hi>Revel</hi> Governeſs of the Ladies <hi>Mancini</hi> his Neices the ſum of thirty thouſand liures as a reward for thoſe paines ſhe hath taken with them.</p>
+                     <p>He gives and bequeathes to the Sieur de <hi>Gaumond</hi> Advo<g ref="char:EOLhyphen"/>cate to the Parliament, beſides his other Aſſignments, the ſum of twelve thouſand liures. He gives and bequeathes to Monſieur <hi>Colbert</hi> Intendant of the houſes and Finances of his Eminence, the houſe where at preſent he dwells, adjoyning to the Palace of his Eminence.</p>
+                     <p>As concerning the Palace of
+<pb n="57" facs="tcp:55453:33"/>his Eminence, Appurtenances, and Dependencies, Statues and Figures therein, being others then thoſe before ſpecified, he gives and bequeathes them by Moity to the ſaid Lord Duke <hi>Mazarini</hi> and Marqueſs <hi>Man<g ref="char:EOLhyphen"/>cini,</hi> to be equally divided be<g ref="char:EOLhyphen"/>tween them; the ſaid Lord Car<g ref="char:EOLhyphen"/>dinal willing that the Choyce of the Lors ſhall be given to my Lord Duke <hi>Mazarini:</hi> And the ſaid Lord Cardinal Duke having reſerved to himſelf by his Will, his Moveables, Jew<g ref="char:EOLhyphen"/>els Rings and other things, be<g ref="char:EOLhyphen"/>ſides thoſe which he hath diſpo<g ref="char:EOLhyphen"/>ſed, wills, meaneth, and ordain<g ref="char:EOLhyphen"/>eth that they be prized at the rate and ſum of three hundred
+<pb n="58" facs="tcp:55453:34"/>and ſixty thouſand liures, which ſhall thus be diſtributed, <hi>viz.</hi> Six ſcore thouſand liures which he gives to the ſaid Lord <hi>Maza<g ref="char:EOLhyphen"/>rini Mancini</hi> of which ſum, one half ſhall go to the Subſti<g ref="char:EOLhyphen"/>tution, the other ſhall be the proper money of the ſaid Seig<g ref="char:EOLhyphen"/>neur <hi>Mancini:</hi> and the ſum of forty thouſand liures to every of the other his ſaid Heires, on promiſe and condition that all and every of them do quit thoſe claims they may have to the Succeſſion of my ſaid Lord Cardinal, which claimes they ſhall renounce in favour of my ſaid Lord and Lady the Duke and Dutcheſs <hi>Mazarini;</hi> who may alſo diſpoſe of that part
+<pb n="59" facs="tcp:55453:34"/>which ſhall fall to them of the ſaid Palace and Appurtenances: but as to the Statues &amp; Figures they ſhall remain in Subſtituti<g ref="char:EOLhyphen"/>on, as likewiſe ſhall the ſum of ſix hundred thouſand liures, which ſhall be taken upon the Eſtimate that ſhall be made of the Rings, Jewels, &amp;c. which ſhall be divided; the which ſum of ſix hundred thouſand liures ſhall be in the nature of a Pro<g ref="char:EOLhyphen"/>venue for the ſaid Lady Dut<g ref="char:EOLhyphen"/>cheſſe <hi>Mazarini.</hi>
+                     </p>
+                     <p>The ſaid Lord Cardinal more expreſſely prohibiteth any In<g ref="char:EOLhyphen"/>ventory to be made of his goods and papers upon the Penalties impoſed by his laſt Teſta<g ref="char:EOLhyphen"/>ment,</p>
+                     <pb n="60" facs="tcp:55453:35"/>
+                     <p>Giveth and bequeatheth un<g ref="char:EOLhyphen"/>to Cardinal <hi>Sachetti</hi> the Tape<g ref="char:EOLhyphen"/>ſtry hangings of D'eſnee.</p>
+                     <p>The ſaid Lord Cardinal gi<g ref="char:EOLhyphen"/>veth unto my Lord Cardinal <hi>Albis</hi> the Hangings of Tapeſtry of <hi>Verduire</hi> of <hi>Bruſſels,</hi> hang<g ref="char:EOLhyphen"/>ing at preſent in the Apparti<g ref="char:EOLhyphen"/>ment of his Eminence at the <hi>Louvre.</hi>
+                     </p>
+                     <p>He gives and bequeathes un<g ref="char:EOLhyphen"/>to Sr. <hi>Lezio. Diſnio</hi> a Diamant Ring worth eight thouſand liures.</p>
+                     <p>To Sr <hi>Paul Manarani</hi> a Car<g ref="char:EOLhyphen"/>kanet of Diamants of one thou<g ref="char:EOLhyphen"/>ſand Crowns.</p>
+                     <p>Further, my Lord Cardinal having reaſon to gratifie the ſer<g ref="char:EOLhyphen"/>vices of the Seiur <hi>Lepidio Be<g ref="char:EOLhyphen"/>nedicti,</hi>
+                        <pb n="61" facs="tcp:55453:35"/>he prayeth his Majeſty to be pleaſed to continue to him the Penſion which he gives him at preſent.</p>
+                     <p>This was done, ſaid, and named to the Notaries, and by one of them, the other preſent read and repeated in the Cham<g ref="char:EOLhyphen"/>ber, the ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>id day and year above ſaid.</p>
+                     <p>To day the ſixth of <hi>March</hi> 1661, the King being at <hi>Vin<g ref="char:EOLhyphen"/>cennes,</hi> cauſed the laſt Will and Codicil of the Lord Cardinal to be ſhewed unto him; and having approved thereof, His Majeſty renounced and quitted all that was done to his advan<g ref="char:EOLhyphen"/>tage by the ſaid Cardinal the third of this Moneth, and wil<g ref="char:EOLhyphen"/>leth
+<pb n="62" facs="tcp:55453:36"/>and intendeth that the ſaid Will &amp; Codicil ſhall take their plain and full effect, and that they be executed from point to point according to their Form and Tenour, His Majeſty com<g ref="char:EOLhyphen"/>manding for a teſtimony of his Will to diſpatch this preſent Breviate, which he would ſign with his own hand, and to be counterſigned by me his Se<g ref="char:EOLhyphen"/>cretary of State and of his Com<g ref="char:EOLhyphen"/>mands and Finances.</p>
+                     <p>To Day the ſeventh of <hi>March</hi> 1661, at the Commandment of the moſt Illuſtrious and Eminent my Lord Cardinal Duke <hi>Ma<g ref="char:EOLhyphen"/>zarini</hi> the Notaries <hi>ut ſupra,</hi> came to the Caſtle of <hi>Vincennes</hi> in a Chamber there, where they
+<pb n="63" facs="tcp:55453:36"/>found the ſaid Lord Cardinal a bed ſick in body, but ſound, &amp;c. who ſaid that he thanked God for the prolongation of his Di<g ref="char:EOLhyphen"/>ſeaſe, &amp; for that by lengthening his days, he had given him more means to conſider of his Salva<g ref="char:EOLhyphen"/>tion, hoping of the Divine good<g ref="char:EOLhyphen"/>neſs the remiſſion of his ſins, and that God would ſhew mercy to him; and that if he ſhould de<g ref="char:EOLhyphen"/>ſire any other further length of life, it ſhould be only to em<g ref="char:EOLhyphen"/>ploy it in thoſe reflections which he ought to have upon thoſe Favours he hath received of God and the King, and to ſacri<g ref="char:EOLhyphen"/>fice it wholly in the acknow<g ref="char:EOLhyphen"/>ledgement of ſo many benefits of which he judgeth himſelf al<g ref="char:EOLhyphen"/>together unworthy.</p>
+                     <pb n="64" facs="tcp:55453:37"/>
+                     <p>The ſaid Lord Cardinal ap<g ref="char:EOLhyphen"/>proveth &amp; confirmeth his Will and Codicil heretofore made, reiterating his Donations and Bequeaſtes made by him, and adding thereunto, moſt humbly beſeecheth his Majeſty to ac<g ref="char:EOLhyphen"/>cept of two fair Cabinets.</p>
+                     <p>He alſo humbly ſupplicates the Queen Mother to accept of a large Diamond of the Roſe of <hi>England</hi> a large Diamond Brute weighing 14 Caracts, a Ruby Ring Caluchon perfect, 2 great Cabinets of the Peace and of the War, one Cabinet of Peace &amp; war which came from <hi>Rome,</hi> thanking her for her Favours, and requeſting her to vouchſafe her protection to his Nephewes and Neices.</p>
+                     <pb n="65" facs="tcp:55453:37"/>
+                     <p>He gives and bequeathes to Monſieur the Duke of <hi>Orleans</hi> the only Brother of the King, ſixty Marks of Gold, thirty and one Emeraulds, of which many are great, one of the fair Ca<g ref="char:EOLhyphen"/>binets of Jaſper brought from <hi>Rome,</hi> and the Tapeſtry Hang<g ref="char:EOLhyphen"/>ings of <hi>Leander,</hi> beſeeching him to accept this ſmall acknow<g ref="char:EOLhyphen"/>ledgement, and to accord his Protection to thoſe of his Houſe.</p>
+                     <p>He giveth and bequeatheth unto my Lord the Cardinal of <hi>Colonne</hi> a great Watch of Gold which came from the Queen Mother Deceaſed, and is at pre<g ref="char:EOLhyphen"/>ſent upon the Table of his Emi<g ref="char:EOLhyphen"/>nence.</p>
+                     <pb n="66" facs="tcp:55453:38"/>
+                     <p>He giveth and bequeatheth unto Monſieur the Marſhal of <hi>Grammont</hi> the ſum of 100000 liures which he owes him by Obligation, and which he wil<g ref="char:EOLhyphen"/>leth to be rendred to him as paid and acquitted.</p>
+                     <p>He gives and bequeathes un<g ref="char:EOLhyphen"/>to my Lord the firſt Preſident a Baſon with its Ewer, Vermilli<g ref="char:EOLhyphen"/>an and Gold made at <hi>Augsburg,</hi> or as much in value as he hath given him as Executor of his Teſtament.</p>
+                     <p>He giveth and bequeathes unto Monſieur the Archbiſhop of <hi>Arniuzi</hi> a great Watch in a Caſe of Gold.</p>
+                     <p>My Lord the Cardinal refers himſelf to his Heirs and Lega<g ref="char:EOLhyphen"/>tees
+<pb n="67" facs="tcp:55453:38"/>to give preſents to his prin<g ref="char:EOLhyphen"/>cipal friends.</p>
+                     <p>He gives to Monſieur de <hi>Maſſat</hi> Advocate in Parliament a Diamond of fifteen hundred liures.</p>
+                     <p>He gives and bequeathes to Sr. <hi>Poiſſon</hi> his Apothecary four thouſand liures.</p>
+                     <p>To the Church of St. <hi>Peter</hi> and St. <hi>Paul</hi> at <hi>Rome,</hi> a Lamp of three thouſand Crowns.</p>
+                     <p>He gives another Lamp of the ſame price to the miracu<g ref="char:EOLhyphen"/>lous Crucifix of St. <hi>Briget</hi> at <hi>Rome.</hi>
+                     </p>
+                     <p>He giveth and bequeatheth to the Church of St. <hi>Roch</hi> in St. <hi>Honory's</hi> ſtreet a Chalice of the ſum of eighteen thouſand liures.</p>
+                     <pb n="68" facs="tcp:55453:39"/>
+                     <p>He willeth and ordaineth that after the ſharing of the Palace of his Eminence, together with the Statues and Figures, which ſhall be therein, and that the ſaid Lord Duke <hi>Mazarini</hi> hath choſen the part which beſt likes him, that then it ſhall be law<g ref="char:EOLhyphen"/>full to the ſaid Marqueſs <hi>Man<g ref="char:EOLhyphen"/>cini</hi> to take the ſum of three hundred thouſand liures for his part of the ſaid Statues and Fi<g ref="char:EOLhyphen"/>gures, which ſum in the ſaid Caſe the ſaid Lord <hi>Mazarini</hi> ſhall be bound to pay him; for which payment all the ſaid Sta<g ref="char:EOLhyphen"/>tues and Figures ſhall be com<g ref="char:EOLhyphen"/>prized in the ſaid Subſtitution of the Legacy general, without comprizing nevertheleſſe the
+<pb n="69" facs="tcp:55453:39"/>Palace and Appurtenances, which ſhall remain in his diſ<g ref="char:EOLhyphen"/>poſition.</p>
+                     <p>If the ſaid Lord Marqueſſe <hi>Mancini</hi> receive the ſaid ſum of three hundred thouſand li<g ref="char:EOLhyphen"/>ures, my Lord the Cardinal willeth and intendeth that it ſhall be imployed in the pur<g ref="char:EOLhyphen"/>chaſe of a Houſe fit to receive him, the which purchaſe ſhall not be made without the ad<g ref="char:EOLhyphen"/>vice of Monſieur <hi>Colbert.</hi>
+                     </p>
+                     <p>My Lord Cardinal giveth unto Madam the Princeſs <hi>Co<g ref="char:EOLhyphen"/>lonna,</hi> beſides that which he hath aſſigned her, as aboveſaid, by his Teſtament, the ſum of 15 thouſand liures as well for the buying her Horſes, Caroach and
+<pb n="70" facs="tcp:55453:40"/>Equipage as for the expences of her voyage into <hi>Italy.</hi>
+                     </p>
+                     <p>All which was ſo ſpoke and ſaid to the ſaid Notaries, and by one of them the other being preſent read and repeated Mon<g ref="char:EOLhyphen"/>day the ſeventh day of <hi>March</hi> about nine a clock in the morn<g ref="char:EOLhyphen"/>ing the ſame year, 1661.</p>
+                     <p>TO day the ſeventh day of <hi>March</hi> 1661. the King be<g ref="char:EOLhyphen"/>ing at <hi>Vincennes,</hi> after the read<g ref="char:EOLhyphen"/>ing to his Majeſty by <hi>Francis</hi> le <hi>Foin</hi> Notary, &amp;c. of the Teſta<g ref="char:EOLhyphen"/>ment and Codicils made by my Lord Cardinal Duke <hi>Maza<g ref="char:EOLhyphen"/>rini:</hi> His ſaid Majeſty divers times renounced and renoun<g ref="char:EOLhyphen"/>ceth that made to his advan<g ref="char:EOLhyphen"/>tage
+<pb n="71" facs="tcp:55453:40"/>of the third of <hi>March</hi> in<g ref="char:EOLhyphen"/>ſtant, and Willeth and Or<g ref="char:EOLhyphen"/>daineth that the ſaid Teſta<g ref="char:EOLhyphen"/>ment and Codicils be executed according to the Form and Te<g ref="char:EOLhyphen"/>nour: at which ſaid reading were preſent my Lord the Prince of <hi>Conde;</hi> by and at the requeſt of Madam the Princeſſe of <hi>Conti,</hi> Monſieur the Duke of <hi>Mercoeur,</hi> Monſieur the Count of <hi>Soiſſons,</hi> the Sieurs, Duke and Dutcheſſe <hi>Mazarini,</hi> the Sieurs <hi>Premier</hi> Preſident <hi>Fou<g ref="char:EOLhyphen"/>quet,</hi> the Biſhop of <hi>Freins</hi> and <hi>Colbert</hi> Executors of the Teſta<g ref="char:EOLhyphen"/>ment of my Lord the Cardinal, His Majeſty commanding me for the the teſtifying his pleaſure to diſpatch the preſent bre<g ref="char:EOLhyphen"/>viat,
+<pb n="72" facs="tcp:55453:41"/>which he hath ſigned with his own hand, and cauſed to be Counterſigned by me his Secretary of State, and of his Commands and Finances.</p>
+                     <closer>
+                        <signed>Signed Le <hi>TELLIER.</hi>
+                        </signed>
+                     </closer>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:55453:41"/>
+                  <p>
+                     <hi>SOME HISTORICAL</hi> REMARQVES OF THE LIFE Of the Famous CARDINAL MAZARINI</p>
+                  <p>
+                     <hi>London,</hi> Printed by <hi>Peter Lillicrap</hi> for <hi>William Gilbertſon</hi> at the Bible in <hi>Guilt-Spur-Street,</hi> 166<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:55453:42"/>
+                  <pb n="75" facs="tcp:55453:42"/>
+                  <head>Some Hiſtorical REMARQUES OF THE LIFE of the Famous Cardinal MAZARINI.</head>
+                  <p>IT might paſs for no great miſadventure, (in imita<g ref="char:EOLhyphen"/>tion of Philoſophers, and thoſe Mathematicians who to deſcribe the Globes and the
+<pb n="76" facs="tcp:55453:43"/>Government of the Univerſe have aſſigned Termes and Names to the great and Princi<g ref="char:EOLhyphen"/>pal Parts thereof) if in the Ele<g ref="char:EOLhyphen"/>ments of Humane Policy which hath ordered and diſpoſed the Affairs of Chriſtendome, in its Modern Adminiſtration, we give to its chief <hi>Motion</hi> the Name of <hi>MAZARINI</hi> whoſe Deſignes and Actions were the Supreme <hi>Intelligences</hi> the <hi>Poles</hi> and <hi>Hinges</hi> by which ſo many wonderful <hi>changes</hi> and viciſſitudes have been <hi>Rolled</hi> upon the World.</p>
+                  <p>And he may properly be alſo called that <hi>Altern Lumi<g ref="char:EOLhyphen"/>nary</hi> which upon the ſetting of the Glorious <hi>Richelieu, aroſe</hi> in
+<pb n="77" facs="tcp:55453:43"/>the <hi>French Horizon,</hi> and with <hi>
+                        <g ref="char:V">Ʋ</g>niverſal Splendor pierced</hi> in<g ref="char:EOLhyphen"/>to the moſt Recondite and Ab<g ref="char:EOLhyphen"/>ſtruſe Myſteries and Cabals of State, and influenced and Go<g ref="char:EOLhyphen"/>verned their Tranſactions; Like the Moons Opacous Body his Gleamings and Glitterings and uncertain lights dazled the Eyes of the World, while his dark Intrigues were reſerved and concealed in himſelf.</p>
+                  <p>He was <hi>Fate</hi> it's ſelf in a <hi>Hu<g ref="char:EOLhyphen"/>mane ſhape,</hi> which <hi>diſpenſed</hi> Events and <hi>favoured</hi> or <hi>croſſed</hi> all Counſels and Deſignes ac<g ref="char:EOLhyphen"/>cording to his Pleaſure; nothing <hi>ſucceeded</hi> without his <hi>Concur<g ref="char:EOLhyphen"/>ring advice</hi> and <hi>aſſent,</hi> and no<g ref="char:EOLhyphen"/>thing <hi>failed</hi> with his <hi>auſpici<g ref="char:EOLhyphen"/>ous
+<pb n="78" facs="tcp:55453:44"/>Encouragement.</hi> To ſo near a <hi>reſemblance</hi> herein, that he was able to <hi>clue</hi> glorious and moſt wonderful <hi>Effects</hi> through <hi>dark Labyrinths</hi> of <hi>Time</hi> and <hi>Adver<g ref="char:EOLhyphen"/>ſity,</hi> and <hi>appoint</hi> the <hi>hour</hi> and <hi>minute</hi> of their <hi>Termination.</hi>
+                  </p>
+                  <p>He was a <hi>dark. Lanthorn</hi> whoſe <hi>Lucidations diſcovered</hi> all before him, and <hi>concealed</hi> his own Myſterious Practiſes; the <hi>Oracle</hi> of State, which no Sword or Wiſdome could re<g ref="char:EOLhyphen"/>ſolve, He could turn the Edges of the ſharpeſt Steel, and blunt the Points of the acuteſt Wits, neither <hi>Mars</hi> nor <hi>Mercury</hi> could prevail againſt Him.</p>
+                  <p>In vain therefore it is to think to give any competent
+<pb n="79" facs="tcp:55453:44"/>Character of Him, who ſur<g ref="char:EOLhyphen"/>mounted the capacity of the ableſt Perſonages Chriſtendome e're enjoyed, and who may be reckoned for one of the Won<g ref="char:EOLhyphen"/>ders of the World.</p>
+                  <p>As he may in ſome ſort alſo be ſaid to have been a Monarch himſelf, having governed <hi>France</hi> abſolutely in the Re<g ref="char:EOLhyphen"/>gency and Minority of the Pre<g ref="char:EOLhyphen"/>ſent King and Queen Mother in very difficult and perplexed Times, and yet he was but a ſtranger, and a new commer to that Court and Country in a very private condition, which His Fortune and M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>it equalled after to the higheſt Advance<g ref="char:EOLhyphen"/>ments any Publique Miniſter ever attained.</p>
+                  <pb n="80" facs="tcp:55453:45"/>
+                  <p>It's true, he had an Excellent Maſter and Pattern the afore<g ref="char:EOLhyphen"/>ſaid <hi>Richlieu,</hi> who doubled his Faculties upon him at his death, commending him to the King as he had done before to the Queen, as the only fit and able perſon to undertake His Affairs. The main Scope whereof was the Ruine of the Houſe of <hi>Auſtria,</hi> and the Ad<g ref="char:EOLhyphen"/>vancement of the <hi>French</hi> Great<g ref="char:EOLhyphen"/>neſs upon it, to an Univerſal So<g ref="char:EOLhyphen"/>veraignty.</p>
+                  <p>And it will not be ungrate<g ref="char:EOLhyphen"/>ful I ſuppoſe to the Reader to ſhew the Parallel and Diffe<g ref="char:EOLhyphen"/>rences between theſe Eminent Stateſmen, (the latter exactly treading in the ſteps of the For<g ref="char:EOLhyphen"/>mer,)
+<pb n="81" facs="tcp:55453:45"/>without any ambitious Hope or deſign of expreſſing them in their due proportions, but only to ſerve an ordinary Curioſity.</p>
+                  <p>Cardinal <hi>Richlieu</hi> was born at <hi>Paris,</hi> and ſo a Native of that Kingdom, and of Noble Ex<g ref="char:EOLhyphen"/>traction, which rendred him to the obſervation of the Queen Mother, who took him into her ſervice and preferred him to the Biſhoprick of <hi>I uzon,</hi> where at her command he wrote a Book of Con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>roverſies, and Therafter to the King, who pro<g ref="char:EOLhyphen"/>cured him a Cardinals Cap from the Pope (<hi>Paul</hi> the fifth, is reported upon viewring him to have ſaid, <hi>that he would one day</hi> 
+                     <gap reason="missing" extent="1 page">
+                        <desc>〈1 page missing〉</desc>
+                     </gap>
+                     <pb n="82" facs="tcp:55453:46"/>
+                     <hi>would prove the greateſt cheat in the World.</hi>) He highly meri<g ref="char:EOLhyphen"/>ted his Preferments of the King, by his taking of <hi>Rochel,</hi> which cauſed ſuch an obliging confi<g ref="char:EOLhyphen"/>dent affection in the King to<g ref="char:EOLhyphen"/>wards him that he left the total direction of Affairs to him, but that Intereſt in the King was very ungratefully mana<g ref="char:EOLhyphen"/>ged againſt the Queen Mo<g ref="char:EOLhyphen"/>ther who raiſed Him, and all her Party or Dependants, the Queen he forced into a diſho<g ref="char:EOLhyphen"/>nourable and wandring Exile; and to rid himſelf of Her and the Intrigues againſt Him, He cut off the Marſhall <hi>Marillacis</hi> head her great Favourite, and ruined all ſuch of whom he had
+<pb n="83" facs="tcp:55453:46"/>any jealouſie. He was belo<g ref="char:EOLhyphen"/>ved by the moſt zealous Pro<g ref="char:EOLhyphen"/>teſtants and hated by the moſt zealous <hi>Catholiques,</hi> and never pardoned ſuch as had offended againſt him. He gained the Dutchy of <hi>
+                        <gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>urain</hi> by ſine po<g ref="char:EOLhyphen"/>licy, and ſudden force in<g ref="char:EOLhyphen"/>tending to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ine the Houſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, the ſucceſſors or <hi>Char<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>n,</hi> in order to the ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e deſtructive Deſign un<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, the Houſe of <hi>Auſtria,</hi> deſigning to have ſeized alſo the <hi>L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>w Countries,</hi> upon which bottome the War with <hi>Spain</hi> in 16<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. was begun and continued till his death.</p>
+                  <p>He aſſiſted the Duke of <hi>Ne<g ref="char:EOLhyphen"/>ver,</hi> in his ſucceſſion to the
+<pb n="74" facs="tcp:55453:47"/>Dutchy of <hi>Mantuua,</hi> and made an alliance with the <hi>Swedes</hi> and the Proteſtant Princes; and yet notwithſtanding ruined the <hi>Hugonites</hi> in <hi>France.</hi>
+                  </p>
+                  <p>He was an enemy likewiſe to the Princes of the Blood, eſpe<g ref="char:EOLhyphen"/>cially the Count of <hi>Soiſſons,</hi> who deſerted the Kingdome and joyned with the <hi>Spaniard;</hi> His Party with him publiſhed a <hi>Manifeſto</hi> againſt the Cardinals male adminiſtration, yet he continued in the Kings favour and firm aſſurance there<g ref="char:EOLhyphen"/>of, and for attempts and under<g ref="char:EOLhyphen"/>minings thereof by the perſwa<g ref="char:EOLhyphen"/>ſions of the King to a peace, he cauſed Monſieur le <hi>Grand</hi> and De <hi>Thou,</hi> two Eminent Noble<g ref="char:EOLhyphen"/>men
+<pb n="75" facs="tcp:55453:47"/>to be beheaded at <hi>Lions;</hi> which laſt ſanguinous Action looſned him from his former fixedneſs in his Maſters breaſt, whoſe coldneſs towards him raiſed Damps in his own, which with other diſtempers fomented and fed by this, ex<g ref="char:EOLhyphen"/>tinguiſhed his life on the 4<hi rend="sup">th</hi> of <hi>December</hi> 1642.</p>
+                  <p>He was accuſed of having Embroyled <hi>England,</hi> to the end that it might be in no condition to hinder his ſei<g ref="char:EOLhyphen"/>zing of the <hi>Low Countries,</hi> and this by moſt unjuſt and Ma<g ref="char:EOLhyphen"/>ligne practiſes (though varniſh<g ref="char:EOLhyphen"/>ed over with its like intermed<g ref="char:EOLhyphen"/>ling in the buſineſſe of <hi>Rochel</hi>) and of ſetting all <hi>Europe</hi> in ge<g ref="char:EOLhyphen"/>neral
+<pb n="86" facs="tcp:55453:48"/>by the ears, though he can<g ref="char:EOLhyphen"/>not be deprived of the glory and praiſe of having done the Kingdom of <hi>France</hi> Superlative ſervices though it were with the huge oppreſſion of the poore people, he lived in great anxi<g ref="char:EOLhyphen"/>ety and ſear, having perpetual apprehenſions of the miſchiefs he had done.</p>
+                  <p>His death was not overmuch lamented, and ſuch as had ei<g ref="char:EOLhyphen"/>ther feared him, or fled his per<g ref="char:EOLhyphen"/>ſecution returned into <hi>France,</hi> and by the Kings Grace repoſ<g ref="char:EOLhyphen"/>ſeſt themſelves of their Charges and Eſtates. He died wealthy and rich, ſeized of ſeverall Go<g ref="char:EOLhyphen"/>vernments and Offices and Ti<g ref="char:EOLhyphen"/>tulado'd with Dignities and
+<pb n="87" facs="tcp:55453:48"/>Secular Honours, leaving a Peerage and Dutchy to his Ne<g ref="char:EOLhyphen"/>phew Duke <hi>Richleiu</hi> now ſur<g ref="char:EOLhyphen"/>viving; and was buried with a publique ſumptuous Funeral a little before the death of <hi>Lewis</hi> the 1<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> which happened in the beginning of the year 1643. after he had declared the Q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>een, Regent and recommen<g ref="char:EOLhyphen"/>ded Cardinal <hi>Mazarini</hi> to her, who ſuffered no Eclipſe or Di<g ref="char:EOLhyphen"/>minution of Luſtre in the clou<g ref="char:EOLhyphen"/>ded cloſe ſetting of his Patron <hi>Richleiu.</hi>
+                  </p>
+                  <p>And we ſhall now perceive this Apotype and Copy of this great Exemplar Cardinal <hi>Ma<g ref="char:EOLhyphen"/>zarini</hi> who was (as hath been objected to, and reported of,
+<pb n="78" facs="tcp:55453:49"/>him frequently) a <hi>Sicilian</hi> by birth, and ſo a Native Subject of the King of <hi>Spain,</hi> but took his Prieſthood at <hi>Rome</hi> as did <hi>Richleiu,</hi> and by his good For<g ref="char:EOLhyphen"/>tune conducted to <hi>France,</hi> into which Court he cunningly inſi<g ref="char:EOLhyphen"/>nuated himſelf, and gained the favour and knowledge of the Cardinal, who employed him in tranſacting his Affairs at <hi>Rome,</hi> and as his Envoy or Miniſter for that peculiar Negotiation, while he found it convenient to diſpoſe of him for his better ſervice, and prefer him to the Queen, as her Secretary, by which means he might faſten a ſure Intelligencer of whatever ſhould be contrived againſt
+<pb n="79" facs="tcp:55453:49"/>Him, and continue and cheriſh thoſe good correſpondencies between her Majeſty and Him<g ref="char:EOLhyphen"/>ſelf.</p>
+                  <p>And ſo true and faithful a Servant did he carry himſelf in that preferment, and ſo pru<g ref="char:EOLhyphen"/>dently and wiſely for himſelf, that he preſerved the <hi>entire</hi> fa<g ref="char:EOLhyphen"/>vour of their Majeſties and the Cardinal, without any ſuſpicion of a partial ſtudy in things of a nice and dubious adherence.</p>
+                  <p>For as he had by his Birth the diſadvantage of Alliance and Intereſt, ſo had be the un<g ref="char:EOLhyphen"/>obſerved unbuſied and ſerence way of beneficing and engaging the means to his Grandeur which he ſaw deſigned for him
+<pb n="90" facs="tcp:55453:50"/>by ſo Potent and concerned In<g ref="char:EOLhyphen"/>ductions to the ſecrets of the Government; ſo that there was little odds between the Locality of their Extractions but what ambitious Envy a<g ref="char:EOLhyphen"/>gainſt the one, and contemp<g ref="char:EOLhyphen"/>tuous Hatred againſt the other ineffectually ſignified.</p>
+                  <p>By the aforeſaid direction of the King at his deceaſe he now managed the State, and in pro<g ref="char:EOLhyphen"/>ſecution of <hi>Richleius</hi> Deſign, (Sacrated to him by the Merit of his Advancement) reſumed the next Summers Expedition of 1643. with more violent Effects, the tediouſneſs of the former having wearied <hi>Lewis</hi> the 14<hi rend="sup">th</hi> of his life.</p>
+                  <pb n="91" facs="tcp:55453:50"/>
+                  <p>The firſt ſignal Action of his Adminiſtration was the reliefe of <hi>Rocroy,</hi> which Don <hi>Franciſco</hi> de <hi>Mello</hi> a Portugueſe (then Governour after the death of the Cardinal Infanta of the <hi>Low Countries</hi> under the <hi>Spaniſh</hi> obedience) went to beſiege with a gallant Army, but having declared the Duke of <hi>Albuquerque</hi> (a <hi>Portugueſe</hi> like<g ref="char:EOLhyphen"/>neſe) General of the Horſe, who was a very young man and raw Souldier, the Officers took ſo much offence thereat, that they quarrelled themſelves into a diſcomfiture ſo that all their Foot were preſently worſted and defeated by the Duke of <hi>Anguien</hi> now Prince of <hi>Conde</hi>
+                     <pb n="82" facs="tcp:55453:51"/>a perſon that could not, would not be debarred from Military employment, and was ſuffered to run his venturous fate in this ſervice for other gueſſe effects then a braving Experience, which after wards threatned the Fortunes of this Great Cardinal.</p>
+                  <p>This Victory was very great and moſt opportune to ingrati<g ref="char:EOLhyphen"/>ate His Adminiſtration with the people which voyced up like<g ref="char:EOLhyphen"/>wiſe his favourite, General or Marſhall <hi>Gaſſion</hi> a Proteſtant beſides, who after took in <hi>Theon<g ref="char:EOLhyphen"/>ville.</hi> Of whom further.</p>
+                  <p>This ſucceſſe was alſo the more officious to him for that it removed the ſaid <hi>Franciſco de Mello</hi> from the government
+<pb n="83" facs="tcp:55453:51"/>of the low Countries, the Mar<g ref="char:EOLhyphen"/>queſs <hi>Caſiel-Rodrigo</hi> being ſubſtituted thereto, till the arri<g ref="char:EOLhyphen"/>val of the Arch-Duke <hi>Leopold</hi> from <hi>Germany,</hi> as if Fortune in<g ref="char:EOLhyphen"/>timated that other Miniſters of State were inferiour to his Emi<g ref="char:EOLhyphen"/>nence, and could not conſiſt nor ſtand with his inſuperable Poli<g ref="char:EOLhyphen"/>cy and felicity of Government.</p>
+                  <p>His aims were no leſs upon <hi>Ger<g ref="char:EOLhyphen"/>many</hi> purſuing the old League with the <hi>Swedes,</hi> then on <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi> though with different ſuc<g ref="char:EOLhyphen"/>ceſſe. For the remainders of the Duke of <hi>Saxon Weymars</hi> Army being recruited and reinforced by the French, marched towards <hi>Bavaria,</hi> intending to ſwallow that Dutchy, but here fortune
+<pb n="94" facs="tcp:55453:52"/>faltered, for the Duke of <hi>Ioram</hi> and <hi>John de Wert</hi> accompanied by the Baron of <hi>Mercy</hi> the <hi>Ba<g ref="char:EOLhyphen"/>varian</hi> General, ſo rudely ac<g ref="char:EOLhyphen"/>coſted them, that the French loſt 400 Officers and of them the gallant Marſhal <hi>Guebriana,</hi> and 6000 Souldiers, and with ſpeed were forced to return to the Rhine</p>
+                  <p>Theſe 2 Battles of <hi>Rocroy</hi> and <hi>Dutling</hi> within ſo ſhort a ſpace of 6 Months were almoſt as ſig<g ref="char:EOLhyphen"/>nal as any in the <hi>Swediſh</hi> or <hi>Flandrian</hi> War, and made the world ſuppoſe to the Cardinals advantage, that he would direct and govern the Armes of <hi>France</hi> in their own natural way of ſudden and ſprightly reſo<g ref="char:EOLhyphen"/>lution
+<pb n="95" facs="tcp:55453:52"/>and puſh at a ſpeedy con<g ref="char:EOLhyphen"/>queſt and Deciſion.</p>
+                  <p>The prudent Cardinal knowing how the pleaſure of this Victory might tranſport the Duke of <hi>Lorrain,</hi> having highly vindicated and revenged him<g ref="char:EOLhyphen"/>ſelf of the <hi>French</hi> affronts (to feed the humors thereof, and charm the opportunities of this ſucceſs) propoſed a Treaty with the ſaid Duke now as more facile to an accomodation, ſince he ſtood upon as aequall if not higher ground: but the Duke being ſlur'd before by Cardinal <hi>Richlieu</hi> upon the ſame account at his laſt journy to <hi>Paris</hi> by the like offers would not venture another
+<pb n="86" facs="tcp:55453:53"/>Flam, but fell into the low coun<g ref="char:EOLhyphen"/>tries to winter quarters &amp; gave the Cardinal leave to undertake another Compoſure.</p>
+                  <p>And that was between the King of <hi>England</hi> and the mem<g ref="char:EOLhyphen"/>bers at <hi>Weſtminſter</hi> by the out<g ref="char:EOLhyphen"/>ward ſolemn Embaſſy of Prince <hi>Harcourt</hi> and as well enter<g ref="char:EOLhyphen"/>tained by them as intended by him; (the Members quarrel<g ref="char:EOLhyphen"/>ling at his Credentials as not amply and in form direct<g ref="char:EOLhyphen"/>ed to them, and affronting him by a ſearch and ſeizure of his pa<g ref="char:EOLhyphen"/>pers as he was going to <hi>Oxford</hi>) for he bound himſelf up to the Dictates and Methods of Car<g ref="char:EOLhyphen"/>dinal <hi>Richlein,</hi> which was by any means to continue our divi<g ref="char:EOLhyphen"/>ſions;
+<pb n="97" facs="tcp:55453:53"/>and the effect of this ſplendid <hi>whither go ye</hi> mani<g ref="char:EOLhyphen"/>feſted no more, when the ſaid Prince <hi>Harcourt,</hi> departe hence, without ſo much as one praliminary or word treated of tow<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rd an agreement.</p>
+                  <p>And as his averſeneſs to the <hi>Engliſh</hi> Nation was m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erly Politique &amp; hardly diſcovered in him, ſo had he a natural diſ<g ref="char:EOLhyphen"/>like of and Antipathy to the <hi>N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>et,</hi> eaſily to be obſerved va<g ref="char:EOLhyphen"/>rying and counterchanging the intereſt of <hi>France</hi> whi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h thi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>herto had maintained an indiſ<g ref="char:EOLhyphen"/>ſoluble Le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gue and Amity with <hi>Scotland;</hi> whether prompted to it by his Generoſity a vertue relucent enough in him which
+<pb n="98" facs="tcp:55453:54"/>abhorred their diſloyal practi<g ref="char:EOLhyphen"/>ſes, or from a vile contempt of their Condition, and the dictates of Prudence which diſobliged any confidence in that Nation (as they then went in the worlds Repute) is not determinable.</p>
+                  <p>But moſt certain it is that ſome grounded radicated pique and quarrel he had againſt that people, for that the Immortal Marqueſſe of <hi>Montroſs</hi> of Fa<g ref="char:EOLhyphen"/>mous Memory was put by his Command of that Kings Guard which had been promiſed him, meerly by this Cardinal, al<g ref="char:EOLhyphen"/>though he brought with him the greateſt Merit that Loyalty, Conduct and Courage did ever lay claim to.</p>
+                  <pb n="99" facs="tcp:55453:54"/>
+                  <p>As little indulgent he was in<g ref="char:EOLhyphen"/>deed to the admiſſion of any ſtranger into places of Truſt, no not his own Countrymen of <hi>Italy,</hi> as knowing one was enough and thought by the Princes of the Blood and the Nobility to be too many, ſerving himſelf altogether of <hi>Frenchmen,</hi> except for Forrain Intelligence, for which he had Emiſſaries and Penſionary's of all Nations.</p>
+                  <p>And now we will return to ſome other Paſſages of his Ad<g ref="char:EOLhyphen"/>miniſtration as to the War he maintained yet with the Empe<g ref="char:EOLhyphen"/>rour and King of <hi>Spain</hi> in the year 1646. when the Duke of <hi>Orleans</hi> was <hi>Generaliſſimo,</hi> (the Cardinal ſtudying to buſie the
+<pb n="100" facs="tcp:55453:55"/>Princes of the Blood in Military Actions, out of the Kingdome) and the aforeſaid Duke of <hi>An<g ref="char:EOLhyphen"/>guien</hi> his Lieutenant General.</p>
+                  <p>That years greateſt Campa<g ref="char:EOLhyphen"/>nia fell upon <hi>Flanders</hi> where a Deciſion of the quarrel for thoſe Provinces was reſolved upon, by taking the chiefeſt Towns of Importance in the Heart of the Country, which would give the <hi>Spaniard</hi> a mortal blow; having prepared for it, by many ſucceſ<g ref="char:EOLhyphen"/>ſes to the <hi>Hollanders</hi> as well as the<g ref="char:punc">▪</g> ſelves the year before: for that the <hi>Spaniards</hi> loſſe of <hi>Graveling</hi> and the <hi>Saſſe</hi> of <hi>Gaunt,</hi> the two main Frontier Defences both ways, laid the
+<pb n="101" facs="tcp:55453:55"/>Country open to an intire Con<g ref="char:EOLhyphen"/>queſt.</p>
+                  <p>
+                     <hi>Courtrack</hi> was firſt taken within twenty miles of <hi>Gaunt,</hi> but victuals growing ſeant, by the multitude of ſuch an Army, they retreated towards the Sea<g ref="char:EOLhyphen"/>ſide to be ſupplied by the <hi>Hol<g ref="char:EOLhyphen"/>lander</hi> and took in <hi>Berghen</hi> St. <hi>Wynox</hi> by <hi>Dunkirk,</hi> beſieged <hi>Mardike</hi> ſuprized from them the Winter before, but loſt ma<g ref="char:EOLhyphen"/>ny gallant brave perſons of the <hi>French</hi> No ility, and ſome four thouſand men before it, and yet could not carry it till <hi>Van<g ref="char:EOLhyphen"/>trump</hi> with his <hi>Dutch</hi> Fleet blockt them up by Sea.</p>
+                  <p>
+                     <hi>Dunkirk</hi> and <hi>Fuernes</hi> follow<g ref="char:EOLhyphen"/>ed the ſame Fortune, ſo that no<g ref="char:EOLhyphen"/>thing
+<pb n="102" facs="tcp:55453:56"/>was thought now able to withſtand the progreſs of the <hi>French</hi> Armies to <hi>Antwerp,</hi> which the Cardinal by earneſt expreſſes and inſtances deſired the Prince of <hi>Orange</hi> to beſiege promiſing him 6000 Men to his aſſiſtance; but the Dutch jealous of the <hi>French</hi> for former Rea<g ref="char:EOLhyphen"/>ſons, and ſuſpecting the Cardi<g ref="char:EOLhyphen"/>nals reaches, and not willing to ſpoyl the Trade of <hi>Amsterdam</hi> which muſt return again to <hi>An<g ref="char:EOLhyphen"/>twerp,</hi> would by no means ap<g ref="char:EOLhyphen"/>prove of the deſign.</p>
+                  <p>Nevertheleſs the Prince of <hi>Aurange</hi> (Marſhal <hi>Gaſſion</hi> and <hi>Rantzaw</hi> having driven back <hi>Piccolomini</hi> the Emperours General and ſecured the paſſage
+<pb n="103" facs="tcp:55453:56"/>by the Channel between <hi>Gaunt</hi> and <hi>Bruges</hi>) came with his Army and complemented the Duke of <hi>Orleans</hi> with a viſit, and returned with booty and plunder into the Land of <hi>Waſſe</hi> and there took in <hi>Hulſt</hi> in <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> the laſt admirable felicity of that great Captain.</p>
+                  <p>So ſuccesful were the endea<g ref="char:EOLhyphen"/>vours of this great Cardinal, that no doubt was made of re<g ref="char:EOLhyphen"/>ducing the Countries which <hi>France</hi> pretended to have been wreſted from her ſome ages be<g ref="char:EOLhyphen"/>fore, and ſo accompliſh a total Soveraignty over all <hi>Belgia</hi> in proceſs of time; when the Prince of <hi>Aurange</hi> the great wheel of the <hi>Holland</hi> War, by
+<pb n="104" facs="tcp:55453:57"/>the inſinuations and perſwaſi<g ref="char:EOLhyphen"/>ons of the right honourable <hi>George</hi> Lord <hi>Goring</hi> Earl of <hi>Norwich</hi> deceaſed, was at laſt in<g ref="char:EOLhyphen"/>duced to hearken to an accom<g ref="char:EOLhyphen"/>modation, which having been laboured at <hi>Munster</hi> by Depu<g ref="char:EOLhyphen"/>ties of all the concerned Prin<g ref="char:EOLhyphen"/>ces and the Arbitrators, was in 1648. by that Princes ſingle Condeſcention (ſuch a com<g ref="char:EOLhyphen"/>mand had his Fortune upon Chriſtendome) concluded and ratified on <hi>January</hi> the 8th and the <hi>French</hi> left to ſtand up<g ref="char:EOLhyphen"/>on their own legs (after many inſtances made to the Contrary by Monſieur <hi>de Servient</hi> the <hi>French</hi> Ambaſſadour at the <hi>Hague</hi> to no purpoſe) the <hi>Swedes</hi>
+                     <pb n="105" facs="tcp:55453:57"/>and <hi>Hollanders</hi> returning to their repoſe after a m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt tedious War which the Ambitious Cardinal preferred b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fore a moſt juſt honourable and neceſſary Peace for the impoveriſhed Subjects of <hi>France.</hi>
+                  </p>
+                  <p>Notwithſtanding he obtained by this <hi>Munſter</hi> Treaty from the Emperour in ſatisfaction of his charge and expence in the <hi>Swe<g ref="char:EOLhyphen"/>diſh</hi> War, the ſtrong Town of <hi>Briſack</hi> and moſt part of <hi>Alſa<g ref="char:EOLhyphen"/>tia,</hi> bordering upon <hi>Lorain,</hi> no ſmall addittament of Territory, beſides the ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>curity thereby of his acqueſts in <hi>Lorain;</hi> and his rights in the 3 Biſhopricks of <hi>Metz, Thoul</hi> and <hi>Verdun.</hi>
+                  </p>
+                  <p>Maintaining and keeping al<g ref="char:EOLhyphen"/>ſo
+<pb n="106" facs="tcp:55453:58"/>
+                     <hi>Portolongone</hi> and <hi>Prombino</hi> in <hi>Italy</hi> taken by his Arms un<g ref="char:EOLhyphen"/>der the Conduct of Prince <hi>Tho<g ref="char:EOLhyphen"/>maſo,</hi> as alſo his Conqueſts in <hi>Cataloma,</hi> where the War was continued with various ſucceſs under the ſeveral Commands of Marſhal <hi>de Motte,</hi> The Prince <hi>de Harcourt, de Conde,</hi> and Mar<g ref="char:EOLhyphen"/>ſhal <hi>de Schomberg,</hi> to the con<g ref="char:EOLhyphen"/>tinuance of the <hi>Catalonians</hi> in their revolt.</p>
+                  <p>He retained likewiſe what he gained in <hi>Flanders,</hi> with a re<g ref="char:EOLhyphen"/>ſolution to improve the <hi>French Flower de Lyzes</hi> in that Coun<g ref="char:EOLhyphen"/>try, where they had formerly flonriſhed, looking with an e<g ref="char:EOLhyphen"/>vil eye upon the <hi>Dutch</hi> for a<g ref="char:EOLhyphen"/>bandoning their League, and
+<pb n="107" facs="tcp:55453:58"/>evil-intreating of their Subjects in their Trade and Naviga<g ref="char:EOLhyphen"/>tion, which ſhowed how much he was diſpleaſed with this peace, which he foreſee would breed ill humors in the State, and ſome envious deſignes a<g ref="char:EOLhyphen"/>gainſt his Perſon and Authority therein.</p>
+                  <p>The ſaid year 1648. on the 29th of <hi>Auguſt</hi> he was fortuna<g ref="char:EOLhyphen"/>ted with another Victory at <hi>Lens</hi> in <hi>Artoys</hi> againſt the Arch-Duke <hi>Leopold</hi> gained by the valour but allayed by the death of the gallant Marſhal <hi>Gaſſion,</hi> ſlain with a bullet (as moſt men thought) treache<g ref="char:EOLhyphen"/>rouſly by ſome great perſon near him, who ſhall be nameleſs.
+<pb n="108" facs="tcp:55453:59"/>This noble Captain was a Con<g ref="char:EOLhyphen"/>fident of the Cardinals, and proved a greater loſſe to him then was at preſent imagined, but his ſagacity and prudence ſeaſonably provided himſelf with another <hi>Martialiſt.</hi>
+                  </p>
+                  <p>Hitherto the Cardinal had car<g ref="char:EOLhyphen"/>ried all things evenly without any inteſtine Commotions or open diſturbances, &amp; to his great Reputation and Honour: but the influence of the late gene<g ref="char:EOLhyphen"/>ral peace which ſtilled and dul<g ref="char:EOLhyphen"/>led the minds of moſt men, like a compreſt heavy vapour broke out into a violent Earthquake at home, and gave the <hi>Spaniard</hi> leave to reſpire after a war on both ſides of his Provinces for
+<pb n="109" facs="tcp:55453:59"/>thirteen years together, but be<g ref="char:EOLhyphen"/>laid this great Agent of Chri<g ref="char:EOLhyphen"/>ſtendom with very importunate ſ llicitudes.</p>
+                  <p>Some Cabal now on foot againſt him cheriſht by the Princes of the blood, and managed chiefly by the Prince of <hi>Conde,</hi> had obliged him by the Queen Regents Order in <hi>September</hi> 1648. to commit the Meſſeiurs de <hi>Bruſſels</hi> de <hi>Charton</hi> and de <hi>Blanckmeſnel</hi> Preſidents of the Parliament, whom the people much reſpected and look't up<g ref="char:EOLhyphen"/>on as Patriots, to the <hi>Baſtilt</hi> of <hi>Paris,</hi> whereupon they began to cry Alarum and ran in Herds
+<pb n="110" facs="tcp:55453:60"/>down to the Palace Royal (in the nature and to the Event of our unhappy Tumults in 1640) requiring the Liberty of the ſaid Gentlemen: the Shops were ſhut up, the Chains made faſt, and all the approaches barri<g ref="char:EOLhyphen"/>cado'd, ſo that <hi>Paris</hi> ſeemed to be in more diſorder now, and the danger greater then that which happened in the Reign of <hi>Henry</hi> the <hi>2d</hi> nor did the up<g ref="char:EOLhyphen"/>roar ceaſe till the Queen was conſtrained to releaſe them. And ſo the diſcontent was for a while huſht up, being a fore<g ref="char:EOLhyphen"/>runner to greater miſchiefs, and a ſeeming calm caſt upon the ſurface of the Kingdom, while
+<pb n="111" facs="tcp:55453:60"/>it violently laboured for a free Vent through the turbulent blood of the Princes.</p>
+                  <p>Which happened on the 28 of <hi>December</hi> in their Chriſtmas time 1649. when in the Even<g ref="char:EOLhyphen"/>ing the Queen, the King and Duke of <hi>Anjou</hi> with the Cardi<g ref="char:EOLhyphen"/>nal departed from <hi>Paris;</hi> which ſecret Retreat gave the <hi>Pariſians</hi> another Alarum, for imagin<g ref="char:EOLhyphen"/>ing that the Queen would re<g ref="char:EOLhyphen"/>venge her ſelf of the former com<g ref="char:EOLhyphen"/>motion, they took up Arms again with as much Heat as they had done before, and raiſed their reſpective Militia's and Forces under the Command of the Dukes de <hi>Elbeuf, Beaufort, Bouillon</hi> and the Marſhal de la
+<pb n="112" facs="tcp:55453:61"/>
+                     <hi>Motte,</hi> their chief General be<g ref="char:EOLhyphen"/>ing the Prince of <hi>Conty.</hi>
+                  </p>
+                  <p>The Queen Regent and King raiſed Forces alſo, there fl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ck<g ref="char:EOLhyphen"/>ing to him many from all parts to reduce the <hi>Pariſians</hi> to rea<g ref="char:EOLhyphen"/>ſon, he had alread ſeized up<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n the Approaches, and ſome hot Skirmiſhes were made in one, whereof the Duke of <hi>Rohan</hi> was ſlain, he pretended to be the Son and Heir of that moſt Fa<g ref="char:EOLhyphen"/>mous Souldier and Scholar the Duke of <hi>Rohan</hi> the Head of the Proteſtant League.</p>
+                  <p>By this means the King poſ<g ref="char:EOLhyphen"/>ſeſſed himſelf of St. <hi>Dennis, Meredon, Corbett,</hi> and <hi>Lagny</hi> near the City, who fearing the due puniſhment of their diſloy<g ref="char:EOLhyphen"/>alty,
+<pb n="113" facs="tcp:55453:61"/>and the revenges of the Cardinal and animated by their Leaders, &amp; the Nobility, invited the Archduke <hi>Leopold</hi> to their aſſi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ance, declaring their into<g ref="char:EOLhyphen"/>lerable burdens under the preſ<g ref="char:EOLhyphen"/>ſures of a t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dious War, and the oppreſſions of the ſaid Car<g ref="char:EOLhyphen"/>dinal.</p>
+                  <p>Upon this invitation the Archduke advanced, and to fa<g ref="char:EOLhyphen"/>cilitate his Deſign careſſed the Country as he paſſed, ſuffering not the leaſt ſpoil to be commit<g ref="char:EOLhyphen"/>ted upon their Goods or Cattel, but by the advice of the Duke of <hi>Lorain,</hi> he prudently retired and prevented the ſtops of his return, remembring that of
+<pb n="114" facs="tcp:55453:62"/>
+                     <hi>Curtius, Gratiarum actiones apud hoſtes ſupervacaneas eſſe</hi> — <hi>aut prorſus nullas,</hi> That the thanks of an Enemy are alto<g ref="char:EOLhyphen"/>gether vain and unprofitable, or not to be expected or rely<g ref="char:EOLhyphen"/>ed on.</p>
+                  <p>For the wiſe Cardinal to di<g ref="char:EOLhyphen"/>vert this ſtorm which would ſhiver Him if he met and with<g ref="char:EOLhyphen"/>ſtood it ſingly, vailed the Kings and Queens Authority to this Exigence, Counſelling the Queen to conclude with the Princes without any delay; which advice was ſuddenly ex<g ref="char:EOLhyphen"/>ecuted, and thereby the Arch-Duke having loſt 2000. Horſe for want of forrage and by the celerity of his expedition, was yet
+<pb n="115" facs="tcp:55453:62"/>fain to make more haſt out of the Kingdome then he did into it, although he had ſaved <hi>Paris</hi> from a very forward Ruine.</p>
+                  <p>By this Agreement the Citi<g ref="char:EOLhyphen"/>zens of <hi>Paris</hi> were pardoned and reſtored to all their Privi<g ref="char:EOLhyphen"/>ledges and Franchiſes and the Army of the King and his mu<g ref="char:EOLhyphen"/>tineers diſpacht under the Prince <hi>de Harcourt</hi> to make an in-road into <hi>Flanders,</hi> who coming before <hi>Cambray</hi> were content to diſlodge at the ap<g ref="char:EOLhyphen"/>proach of the Arch Duke, whoſe Leivtenant General the Mar<g ref="char:EOLhyphen"/>queſs <hi>S'ſondrate</hi> took in <hi>Ypres</hi> after a gallant defence made by the <hi>French,</hi> while <hi>Harcourt</hi> took <hi>Conde</hi> and laid waſt the
+<pb n="116" facs="tcp:55453:63"/>Country of <hi>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nault</hi> and part of <hi>Fra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ant</hi> to the fright of the Ci<g ref="char:EOLhyphen"/>ty of <hi>Bruſſels</hi> it ſelf.</p>
+                  <p>This was one of the fineſt extri<g ref="char:EOLhyphen"/>cating <hi>fineries</hi> he manifeſted in ſo ſudden Schazardous an emer<g ref="char:EOLhyphen"/>gence which elſe would have ſunk him immediatly, and the Kingdome together; no ſmall advantage of this occurrence that it complicated the Mon<g ref="char:EOLhyphen"/>archy of <hi>France</hi> with his parti<g ref="char:EOLhyphen"/>cular Fate, and ſhowed that its glory and ſafety were redevable to his ſingle Concern.</p>
+                  <p>The Cardinal well knew where thoſe <hi>Arrows</hi> were for<g ref="char:EOLhyphen"/>ged, and therefore having ſo triumphantly and nimbly ſur<g ref="char:EOLhyphen"/>mounted this ſhock &amp; encoun<g ref="char:EOLhyphen"/>ter,
+<pb n="117" facs="tcp:55453:63"/>he uſed the like diligence to be before hand with his Ene<g ref="char:EOLhyphen"/>mies for the future, and here<g ref="char:EOLhyphen"/>upon the Princes of <hi>C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nde</hi> and <hi>C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> next Princes of the bloud Royal after the Duke of <hi>Orleans</hi> together with the Duke of <hi>Longueville</hi> their brother in law and the Duke of <hi>Beaufort,</hi> were upon a ſudden made priſoners in the Caſtle of <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>incennes,</hi> with ſeveral of their ſervants ſecured and removed from them; this happened in 1650.</p>
+                  <p>The Princeſſe of <hi>Conde</hi> re<g ref="char:EOLhyphen"/>tired her ſelf to <hi>Bourdeaux</hi> (where the Duke of <hi>Bouillon</hi> &amp; many Lords came to her) who for the hatred they bore the Car<g ref="char:EOLhyphen"/>dinal and the Duke of <hi>Eſpernon,</hi>
+                     <pb n="118" facs="tcp:55453:64"/>who ſtuck faſt to the King, were welcomed by her and the Town, as well as the Viſcount Marſhal <hi>Turenne</hi> upon the ſame account at <hi>Bruſſels.</hi>
+                  </p>
+                  <p>The Dutcheſſe of <hi>Longueville</hi> got aboard in a Veſſel which lay off before the Haven of <hi>Deip,</hi> and thence paſſed to <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> and ſo to <hi>Luxenburgh</hi> to communicate intelligence and make a ſtreight Allyance with the Arch Duke.</p>
+                  <p>This was a potent Combina<g ref="char:EOLhyphen"/>tion, wherein moſt of the great men of the Kingdome, with the generality of the people were engaged againſt the Cardinal and which would have ruined the greateſt Miniſter <hi>Europe</hi> ever
+<pb n="611" facs="tcp:55453:64"/>had, were it not that his wiſdom and policy were paramount and above the reach of Fortune, which had little to do with his Felicities.</p>
+                  <p>Firſt therefore the King pub<g ref="char:EOLhyphen"/>liſhed a Manifeſt concerning the detention of the Princes, to give Satisfaction to the world of the juſtice and neceſſity thereof, the cheif points of which declarati<g ref="char:EOLhyphen"/>on were the Prince of <hi>Conde's</hi> too great power and exorbitant Ambition, that had proceeded ſo far as to invade the royal Pre<g ref="char:EOLhyphen"/>rogative.</p>
+                  <p>In anſwer to this the Marſhal of <hi>Turenne</hi> being in <hi>Stenay</hi> (and having agreed with the Arch-Duke for the manage of the
+<pb n="86" facs="tcp:55453:65"/>war) beat his drums and liſted forces, declaring with the ſaid Arch Duke, that neither Party would lay down their Arms till the Princes were releaſed, the Duke of <hi>Lorain</hi> reſtored to his Eſtate, the Cardinal baniſhed, &amp; a firm peace concluded between both Crowns; but the Cardi<g ref="char:EOLhyphen"/>nals Dexterity and diligence bafled all theſe deſignments, and turned their Reſolutions into prayers and intreaties for moſt of the ſame things at his own hands.</p>
+                  <p>The Parliament of <hi>Bourde<g ref="char:EOLhyphen"/>aux</hi> alſo renewed the Order and Arreſt given againſt the Marqueſs de <hi>Ancre</hi> the Favou<g ref="char:EOLhyphen"/>rite of the former Queen Mo<g ref="char:EOLhyphen"/>ther,
+<pb n="121" facs="tcp:55453:65"/>whereby it was declared <hi>that no Stranger</hi> (by reaſon of his Enormous Adminiſtration) <hi>ſhould ever have thereafter the great Miniſtry and Intendency of the Kingdom.</hi>
+                  </p>
+                  <p>The Marſhal <hi>Turenne</hi> with the Arch-Duke attaqued <hi>Guiſe</hi> and notwithſtanding terms and propoſitions of Peace publique and private, reſolved to proſe<g ref="char:EOLhyphen"/>cute the war, while the King ſeizeth upon the Princes Go<g ref="char:EOLhyphen"/>vernments and places of ſtrength in <hi>Normandy,</hi> and final<g ref="char:EOLhyphen"/>ly by the Artifices of the Cardi<g ref="char:EOLhyphen"/>nal and the power of the Duke of <hi>Eſpernon,</hi> poſſeſſeth himſelf
+<pb n="122" facs="tcp:55453:66"/>of <hi>Bourdeaux,</hi> which danger<g ref="char:EOLhyphen"/>ouſly threatned his Crown, where he entred with triumph and with the ſame returned to his City of <hi>Paris.</hi>
+                  </p>
+                  <p>And now the ſecond time had he quieted and laid the en<g ref="char:EOLhyphen"/>vious Rage of his Enemies a<g ref="char:EOLhyphen"/>gainſt Him, when the Duke of <hi>Orleans</hi> the Kings brother un<g ref="char:EOLhyphen"/>dertook the Princes Interceſ<g ref="char:EOLhyphen"/>ſion and Vindication, which he procured to be decreed by the Parliament of <hi>Paris,</hi> who in a body came and preſented their Arreſt in favour of the ſaid Princes, to the Queen; which Authoritative Reverſement of thoſe proceedings and ſevere
+<pb n="123" facs="tcp:55453:66"/>reſtraint the Princes had ſuffer<g ref="char:EOLhyphen"/>ed, with univerſal outcryes againſt the Cardinal as the Au<g ref="char:EOLhyphen"/>thour and Contriver of thoſe injuries and other miſchiefs to the Publique, by his continu<g ref="char:EOLhyphen"/>ance of the War and oppreſſion of the people, now at laſt forced this able Pilot to abandon the Steerage of the State, and to conſult for his ſecurity, which the liberty of the Princes danger<g ref="char:EOLhyphen"/>ouſly threatned.</p>
+                  <p>The Princes were ſet at liber<g ref="char:EOLhyphen"/>ty by Marſhal <hi>Gramment</hi> who was Commanded to ſee it done, and made their entrance into <hi>Paris</hi> the ſixth of <hi>February</hi>
+                     <pb n="124" facs="tcp:55453:67"/>when the ſtreets rung again with the noiſe of Live the King, Live the Princes, no <hi>Mazarine;</hi> eve<g ref="char:EOLhyphen"/>ry one accuſing him of Exhau<g ref="char:EOLhyphen"/>ſting the Revenue, &amp;c. and of the miſchiefs which embroiled the State, but he had plaid his Cards ſo, that they ceaſed not with his departure.</p>
+                  <p>Nevertheleſs to Honeſt his Retreat and take off the diſho<g ref="char:EOLhyphen"/>nour of it, he got the King and Queen to give him their Conge or leave for this his retirement, giving his Enemies full ſwinge to act their Exorbitancies, with<g ref="char:EOLhyphen"/>out any Treaſure to mitigate that acuteneſs the people muſt ſuffer under thoſe neceſſities of
+<pb n="125" facs="tcp:55453:67"/>miſ-rule, while he had where<g ref="char:EOLhyphen"/>withall to looſen their combi<g ref="char:EOLhyphen"/>nation and divide their inte<g ref="char:EOLhyphen"/>reſts into Atomes, and ſo make his return infinitely more glori<g ref="char:EOLhyphen"/>ous, then his <hi>Exit</hi> was diſgrace<g ref="char:EOLhyphen"/>ful.</p>
+                  <p>His paſſage out of <hi>France</hi> was by <hi>Peronne, Sedan</hi> and <hi>Dinant</hi> where he ſtaid ſome dayes, and thence to <hi>Leige</hi> or <hi>Luyck</hi> and ſo to <hi>Bruel</hi> to the Elector of <hi>Colen</hi> who received him according to his quality, he having refuſed the like offers of civility from the <hi>Spaniards.</hi> Yet ſuch was the preſent hatred of him in <hi>France,</hi> that even thoſe who ſhewed him any reſpect in his way to
+<pb n="126" facs="tcp:55453:68"/>this Exile, were informed a<g ref="char:EOLhyphen"/>gainſt as Enemies to the King and their Country, moſt of the Parliaments of <hi>France</hi> De<g ref="char:EOLhyphen"/>creeing againſt Him.</p>
+                  <p>And now returned the Mar<g ref="char:EOLhyphen"/>ſhall of <hi>Turenne,</hi> the Count of <hi>Grand Pre</hi> and the Dutcheſs of <hi>Longueville,</hi> being welcomed with their Troops, while the Cardinal ſecretly liſted men in <hi>Luyckland</hi> for the Kings Ser<g ref="char:EOLhyphen"/>vice, which now went very backward in <hi>Flanders,</hi> for the Marqueſs <hi>Sfondrate</hi> re-took <hi>Fuerues</hi> and <hi>Wynoxberg;</hi> and the Impoſitions and clamours of the people were as great as ever.</p>
+                  <pb n="127" facs="tcp:55453:68"/>
+                  <p>To raiſe theſe diſcontents to another Sedition and Rebelli<g ref="char:EOLhyphen"/>on, the Prince of <hi>Conde</hi> gave out a Rumour of another De<g ref="char:EOLhyphen"/>ſign to ſeize him and his Bro<g ref="char:EOLhyphen"/>ther, and ſo all things were put in the ſame hazard as before at the Cardinals departure, for though the Queen proteſted there was no ſuch Deſign by an Expreſs ſent after him, which brought him back to <hi>Paris</hi> up<g ref="char:EOLhyphen"/>on condition that Monſieur <hi>Ser<g ref="char:EOLhyphen"/>vient</hi> and le <hi>Tellier</hi> ſhould be diſcarded, as being the Cardi<g ref="char:EOLhyphen"/>nals Creatures; yet he returned to the ſame ſuſpicious humour and haſted to St. <hi>Maur</hi> and thence to <hi>Burdeaux,</hi> which again
+<pb n="128" facs="tcp:55453:69"/>received and readily declared for Him.</p>
+                  <p>The King to prevent his <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>Lavies and increaſe there (ha<g ref="char:EOLhyphen"/>ving been newly declared Major the 27th of <hi>Auguſt</hi> 1651 by the Chancellour of <hi>France</hi> in Parliament as being fourteen years of age) followed after him to <hi>Poyctiers,</hi> and ſeeing no reme<g ref="char:EOLhyphen"/>dy but in the prudent Counſels of the Cardinal, againſt this am<g ref="char:EOLhyphen"/>bitious diſſatisfaction of the Princes, ſent for Him to come to them thither, which he o<g ref="char:EOLhyphen"/>beyed: and the Prince of <hi>Conde<g ref="char:punc">▪</g>
+                     </hi> dealt with the Archduke in like manner; <hi>Mazarin</hi> being now declared Traytor, his Goods
+<pb n="129" facs="tcp:55453:69"/>to be Confiſcate, his fine Libra<g ref="char:EOLhyphen"/>ry ſold, and fifteen thouſand pound Sterling offered to any body ſhould bring him either alive or dead: and at the ſame time the Duke of <hi>Nemours</hi> with <hi>Spaniſh</hi> Forces entred <hi>Pi<g ref="char:EOLhyphen"/>cardy.</hi>
+                  </p>
+                  <p>This Reſtitution of the Car<g ref="char:EOLhyphen"/>dinal, was then one of the won<g ref="char:EOLhyphen"/>derfulleſt Changes and Affairs of Chriſtendome, though it were but an ordinary Effect of his prudence which plainly fore<g ref="char:EOLhyphen"/>ſee this glorious Event of his ſeceſs and departure.</p>
+                  <p>
+                     <hi>France</hi> that had leaned ſo long upon his Shoulders, could
+<pb n="130" facs="tcp:55453:70"/>not chuſe but miſſe her ſuppor<g ref="char:EOLhyphen"/>ter, and unaccuſtomed to new Props, was in danger of an irre<g ref="char:EOLhyphen"/>coverable fall. Yet when he had <hi>Sampſons</hi> opportunity of pulling the ſtately Frame of Go<g ref="char:EOLhyphen"/>vernment upon the Head of his Enemies, who triumphed at his diſgrace, the kindneſſe of his Revenge rather ſtrengthened the Fabrick and raiſed it higher.</p>
+                  <p>Neceſſity that injures and inſolently croſſeth other men, officiouſly ſerved His Fortune, <hi>France</hi> could not be ſafe with<g ref="char:EOLhyphen"/>out Him, the Engine of the Go<g ref="char:EOLhyphen"/>vernment was diſcompoſed and in pieces, and none but his
+<pb n="131" facs="tcp:55453:70"/>skilful Hand could ſet it right and in order, which he did ſud<g ref="char:EOLhyphen"/>denly and inviſibly by ſecuring the Kings Intereſt and Sove<g ref="char:EOLhyphen"/>raignty, &amp; dividing and perplex<g ref="char:EOLhyphen"/>ing the Princes, particularly by moderating and in ſome ſort neutralizing the Duke of <hi>Or<g ref="char:EOLhyphen"/>leans.</hi>
+                  </p>
+                  <p>The main Intrigue whereof was the gayning the Marſhall <hi>Turenne</hi> over to the Kings Par<g ref="char:EOLhyphen"/>ty, who had conſtantly followed the Fortune of <hi>Conde,</hi> and ap<g ref="char:EOLhyphen"/>peared the Cardinals moſt avowed and formidable Ene<g ref="char:EOLhyphen"/>my; but nothing it ſeems was inſuperable or unfeaſible to Him, who could reconcile
+<pb n="132" facs="tcp:55453:71"/>Contraries, and out-doe Na<g ref="char:EOLhyphen"/>ture, with the Elixir of his Brain.</p>
+                  <p>So that the Princes were con<g ref="char:EOLhyphen"/>ſtrained to invite the Archduke and Duke of <hi>Lorain</hi> to the other Expedition for <hi>Paris,</hi> which threatned the ruine of one of the Parties; but ſuch was the favour of Fate towards this her great Inſtrument and Agent that ſhe opportunely interpoſed the Authority and Mediation of our Soveraign the King of Great <hi>Britain</hi> then at <hi>Paris</hi> which ſuperſeded the fierce and ſanguinous Reſolutions of the Princes, and ſaved the Cardi<g ref="char:EOLhyphen"/>nal the Emergent Hazard of his
+<pb n="133" facs="tcp:55453:71"/>Felicity. Which Courteſie how he requited, is one of the moſt Envious Enquiry's and the blackeſt darkeſt paſſage of his whole Adminiſtration.</p>
+                  <p>By the ſaid Interceſſion the Duke of <hi>Lorain,</hi> with other ſa<g ref="char:EOLhyphen"/>tisfaction, retreated into <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi> whither not long after perforce followed the Prince of <hi>Conde</hi> and his Partiſans, and the King trinmphantly entred <hi>Paris</hi> with the acceptable inſinuati<g ref="char:EOLhyphen"/>ons of his Grace and Pardon, ſolemnly thereafter publiſhed; Nothing was wanting to com<g ref="char:EOLhyphen"/>pleat the new ſettlement but the Duke of <hi>Orlean's</hi> (the Kings Uncles) preſence at Court, now
+<pb n="110" facs="tcp:55453:72"/>abſenting and retiring himſelf thence, which was one of the difficulteſt and niceſt Punctilio of State the Cardinal ever met with.</p>
+                  <p>Being thus again Culminant and placed in his former Crb, he reſumed the War with freſh vigour, and with two Eminent Succeſſes the taking of <hi>Stenay</hi> whither he carried the King in Perſon, and the Victory at <hi>Ar<g ref="char:EOLhyphen"/>ras</hi> 1654. re-ſtated and reco<g ref="char:EOLhyphen"/>vered the Honour of the Puiſ<g ref="char:EOLhyphen"/>ſance of <hi>France.</hi>
+                  </p>
+                  <p>It will be unneceſſary to mention the Chain of Succeſſes which followed them in <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi> as it will be rudeneſſe to abrupt and disjoyn It with his
+<pb n="111" facs="tcp:55453:72"/>League with <hi>Cromwel</hi> and his Cunning deſtructive Deſign of <hi>Jamaica</hi> which he put into that Uſurpers Head, becauſe they preſs too near upon His Memo<g ref="char:EOLhyphen"/>ry, and are every mans obſer<g ref="char:EOLhyphen"/>vation and publique Diſ<g ref="char:EOLhyphen"/>courſe.</p>
+                  <p>But moſt certain it is, he joy<g ref="char:EOLhyphen"/>ed not our late Miraculous Re<g ref="char:EOLhyphen"/>ſtitution, nor did he foreſee it at that Diſtance which timed and Governed all his other Conſultations, for his Politiques were like <hi>China Metal</hi> prepared and refined by years; though upon the E<g ref="char:EOLhyphen"/>mergent and ſudden Criſis thereof, at the Death of <hi>Oliver Cromwel</hi> he Complemented
+<pb n="136" facs="tcp:55453:73"/>Her Majeſty the Queen Mo<g ref="char:EOLunhyphen"/>ther, with the undoubted Hopes of Her Families Reſtau<g ref="char:EOLhyphen"/>ration; the Effect whereof ſettled ſuch a Melancholy in his Creature Monſieur <hi>Bourde<g ref="char:EOLhyphen"/>aux Neufville</hi> the <hi>French</hi> Re<g ref="char:EOLhyphen"/>ſident here, that he endured not to ſurvive it</p>
+                  <p>For a fit Concluſion: Na<g ref="char:EOLhyphen"/>ture favouring the fair &amp; good<g ref="char:EOLhyphen"/>ly Structure of his Glory, and in an obſequious complyance to his Fortune and Prudence with all other things had ſo humbly ſerved and obeyed, prolonged his life (whoſe Lamp in a San<g ref="char:EOLhyphen"/>guine Conſtitution the great drayner of the ſpirits, and venti<g ref="char:EOLhyphen"/>lated
+<pb n="137" facs="tcp:55453:73"/>with ſo much Ayre of bu<g ref="char:EOLhyphen"/>ſineſſe was never thought of ſuch a Continuance and Du<g ref="char:EOLhyphen"/>ration) till he had ſetled and Eſtabliſhed that Kingdom in the greateſt and potenteſt Con<g ref="char:EOLhyphen"/>dition the World ever ſaw it; and after he had reſtored to it a moſt glorious Peace, from a War of twenty ſeven years ſtanding, and rendred his Prince the moſt Signal and incompa<g ref="char:EOLhyphen"/>rable Services, having annexed and Eſtabliſhed on the Crown by the GENERALLL TREATY in 1659. the Counties of <hi>Rouſſillon, Haynault</hi> and <hi>Artoys</hi> with other advanta<g ref="char:EOLhyphen"/>ges and Dependencies.</p>
+                  <pb n="134" facs="tcp:55453:74"/>
+                  <p>Having alſo lived to ſee the glorious Effects of his Tuition and Education of the preſent King; as if Nice and Curious Fortune ſcorned to exhibite and continue ſo rare a Maſterpiece of Government to the World in vain; or that a Phenix ſhould riſe but out of his Aſhes.</p>
+                  <p>He was by Fate intended and deſigned for the Troubles and Dangers of <hi>France,</hi> to the Redreſſe whereof he was ſole<g ref="char:EOLhyphen"/>ly Competent, and they being Compoſed, His work was done, and He dyed when there was no need of His Life; If per<g ref="char:EOLhyphen"/>haps he prevented not ſome af<g ref="char:EOLhyphen"/>terclaps of that Storm which
+<pb n="135" facs="tcp:55453:74"/>impends at preſent upon one of his greateſt Confidents and Pri<g ref="char:EOLhyphen"/>vadoe's, and Loures upon many other of His Dependants and Retayners.</p>
+                  <p>Fortune was ſo much his Familiar that even his Plea<g ref="char:EOLhyphen"/>ſures and Vacancies were en<g ref="char:EOLhyphen"/>tertained by Her, His greateſt recreation being Playe, or Gaming both at Dice and Cards, or any other Sport; at all which he was very lucky, and took great delight in ſuc<g ref="char:EOLhyphen"/>ceſs; but many times he did not owe it either to Chance or any Cunning but that of his Play-fellows Deſign, who
+<pb n="134" facs="tcp:55453:75"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="135" facs="tcp:55453:75"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="140" facs="tcp:55453:76"/>knowing his Winning and Thriving Humour, would play Booty againſt themſelves; and by their Loſſe make great Ad<g ref="char:EOLhyphen"/>vantage; For he that had a great Suit at Court or aymed at any High Preferment, had no readier way to effect his Buſineſs then by an Opportu<g ref="char:EOLhyphen"/>nity of playing with the Car<g ref="char:EOLhyphen"/>dinal, to whom a loſſe of a thouſand Piſtols was worth a Bribe of ten thouſand, and en<g ref="char:EOLhyphen"/>gaged him more eaſily and ſurely then any friends or other money whatſoever.</p>
+                  <p>So that in Effect He loſt by his Gaines, his indiſ<g ref="char:EOLhyphen"/>creet
+<pb n="141" facs="tcp:55453:76"/>Avarice being eluded by the tickling Vanity of Con<g ref="char:EOLhyphen"/>queſt, and the pleaſing Am<g ref="char:EOLhyphen"/>bition of a good Hit.</p>
+                  <p>But it ſeemed to Him a kind of a more Noble Oppreſſion to drayn Gentlemen of all their money (as it alſo famed his Generoſity in recompen<g ref="char:EOLhyphen"/>ſing them with Offices) alike to that he exerciſed over the Commonalty, without redreſs or mitigation during his whole Adminiſtration; by which he heaped ſuch vaſt ſums of Mo<g ref="char:EOLunhyphen"/>ney, computed by his Teſta<g ref="char:EOLhyphen"/>ment foregoing; and yet there is a report of twenty five thouſand
+<pb n="148" facs="tcp:55453:77"/>millions of Liures, which is two Millions and a halfe of pounds Sterling, to be yet concealed by his Heyres and Executors more then was any manner of way diſpoſed of by Him.</p>
+                  <p>And yet nevertheleſs His Death was not ſung with the Dirges of revengeful Ribaldry as was his Predeceſſors <hi>Richlieu,</hi> though he had more Potent and impotent Enemies.</p>
+                  <p>At home he was reconciled (to view) with the Prince of <hi>Conde,</hi> who was willing to en<g ref="char:EOLhyphen"/>tertain his friendſhip, as he was ikewiſe reſpected by the King of <hi>Spain,</hi> and <hi>Dou Louis de
+<pb n="149" facs="tcp:55453:77"/>Haro:</hi> onely the Pope who al<g ref="char:EOLhyphen"/>wayes took him for the great diſturber of Chriſtendom, and the ſole Oppoſer of the general Peace (his own great deſign at firſt) the War giving him op<g ref="char:EOLhyphen"/>portunity of raiſing and prefer<g ref="char:EOLhyphen"/>ring his Confidents and pilla<g ref="char:EOLhyphen"/>ging the people, did now upon the Concluſion of it very much more ſuſpect and Malign the Cardinal, firſt for taking the glory of that Affair to him<g ref="char:EOLhyphen"/>ſelf, and then deſigning a worſe War upon the <hi>Church</hi> of which he was ſenſible ſome long time before the preſent Rupture and <hi>Turkiſh</hi> Invaſion.</p>
+                  <pb n="150" facs="tcp:55453:78"/>
+                  <p>This Nativity being ſhewed me by that ingenious and fam'd Artiſt Mr. <hi>John Gadbury,</hi> and knowing what particular reſpect is had by great Men to thoſe <hi>Schemes</hi> of Ge<g ref="char:EOLhyphen"/>niture, I thought it would be accep<g ref="char:EOLhyphen"/>table to prefix this; being declara<g ref="char:EOLhyphen"/>tory of the main Concerns of this the Cardinals life <hi>Secundum Artem.</hi>
+                  </p>
+                  <figure>
+                     <p>
+                        <hi>Naſc.</hi> Cardinal <hi>Mazarine, anno</hi> 1602. <hi>July</hi> 14 6 <hi>b.</hi> 43 <hi>m.</hi> P. M Sub Elevatione Poli, 42 <hi>deg.</hi> 
+                        <g ref="char:Moon">☽</g> à ☍ ♄ ad * ☉.</p>
+                  </figure>
+                  <pb n="151" facs="tcp:55453:78"/>
+                  <p>THe Nativity of this great States-man was pab<g ref="char:EOLhyphen"/>liſhed by a Pretender to Aſtro<g ref="char:EOLhyphen"/>logie in <hi>England,</hi> ſome ni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e years ſince, but falſly: for the Scheme thereof is no leſs then nine Degrees in the <hi>Medium Coeli,</hi> and ſeven in the Aſcen<g ref="char:EOLhyphen"/>dent, diſtant from the Truth; as by this Correction following appears,
+<list>
+                        <item>(1.) In the thirty fourth year of this Perſons Age, he be<g ref="char:EOLhyphen"/>gan to be greatly noted, and to live in Favour of the greateſt Perſons in the place he inhabi<g ref="char:EOLhyphen"/>ted: he had the <hi>Medium Coeli ad Trine Venus;</hi> a fit Direction <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> lay a Foundation for future Honour.</item>
+                        <pb n="152" facs="tcp:55453:79"/>
+                        <item>(2) In the year one thouſand ſix hundred and forty he began to riſe into great Favour at the <hi>French</hi> Court, and this in the moneth of <hi>November:</hi> The <hi>Me<g ref="char:EOLhyphen"/>dium Coeli</hi> had but lately paſſed the Sextile of <hi>Jupiter</hi> by Dire<g ref="char:EOLhyphen"/>ction, and <hi>Jupiter</hi> in that moneth upon the Aſcendent at Birth, and <hi>Venus</hi> upon the place of Direction; both very emi<g ref="char:EOLhyphen"/>nent Tranſits.</item>
+                        <item>(3.) In the year one thou<g ref="char:EOLhyphen"/>ſand ſix hundred forty and three, and forty one of his Age, he had the Aſcendent directed <hi>ad Trine Sol, &amp; Sextile Luna:</hi> at which time the Nobility, Gentry, Clergy, and Commo<g ref="char:EOLhyphen"/>nalty
+<pb n="153" facs="tcp:55453:79"/>ſo cryed him up, that he began to be, and indeed was, in greater requeſt then the King; for the King was then but a Childe of five years old.</item>
+                        <item>(4.) In the 49 and 50 years of his Age, he was de<g ref="char:EOLhyphen"/>veſted of his Honor and Great<g ref="char:EOLhyphen"/>neſs for a time; and by the means of an enraged Nobility, &amp;c. was baniſhed, He had then the <hi>Sun ad Conjunction Mars, &amp; Luna ad Quartile Mars</hi> by Direction; which ſhould alſo have given him a very violent Fever: but I cannot inform my ſelf thereof.</item>
+                     </list>
+                  </p>
+                  <pb n="154" facs="tcp:55453:80"/>
+                  <p>Laſtly, In the year 1660. in the Moneth <hi>Febr.</hi> he dyed: ſome ſay of a deep Melancholy, others of a Fever; the laſt is not without Reaſon, nor yet the firſt in a ſenſe; therefore I believe he participated of both. The Aſcendent was directed <hi>ad Oppoſition, Mars,</hi> and <hi>Saturn</hi> upon the <hi>Oppoſition</hi> of the <hi>Moons</hi> Radical place.</p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:55453:180"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
